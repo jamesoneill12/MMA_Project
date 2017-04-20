@@ -1,0 +1,2689 @@
+<!DOCTYPE html><html version="XHTML+RDFa 1.0">
+<head>
+<title>Mauricio &quot;Shogun&quot; Rua MMA Stats, Pictures, News, Videos, Biography - Sherdog.com</title><meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta http-equiv="Content-Language" content="en-US" >
+<meta name="author" content="Sherdog.com" >
+<meta name="publisher" content="Sherdog.com" >
+<meta name="copyright" content="2016 - Sherdog.com" >
+<meta name="robots" content="index, follow" >
+<meta name="description" content="Mauricio Rua official Sherdog mixed martial arts stats, photos, videos, breaking news, and more for the Light Heavyweight fighter from Brazil." >
+<meta name="fragment" content="!" ><meta property="fb:admins" content="100000399936875" /><meta property="og:description" content="Mauricio Rua official Sherdog mixed martial arts stats, photos, videos, breaking news, and more for the Light Heavyweight fighter from Brazil." /><meta property="og:title" content="Mauricio "Shogun" Rua MMA Stats, Pictures, News, Videos, Biography - Sherdog.com" /><meta property="og:image" content="http://www1.cdn.sherdog.com/image_crop/300/300/_images/fighter/20140321015346_1MG_9219.JPG" /><meta property="og:url" content="http://www.sherdog.com/fighter/Mauricio-Rua-5707" /><meta property="og:site_name" content="Sherdog"><meta property="og:type" content="website" /><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><link href="http://www4.cdn.sherdog.com/2337/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://www2.cdn.sherdog.com/2337/css/w/sherdog_styles.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://www3.cdn.sherdog.com/2337/ngallery/css.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://www2.cdn.sherdog.com/2337/favicon.ico" rel="icon" >
+<link href="http://www2.cdn.sherdog.com/2337/favicon.ico" rel="shortcut icon" >
+<link href="http://www4.cdn.sherdog.com/2337/apple-touch-icon.png" rel="apple-touch-icon" >
+<link href="http://m.sherdog.com/fighter/Mauricio-Rua-5707" media="handheld" rel="alternate" >
+<link href="http://m.sherdog.com/fighter/Mauricio-Rua-5707" media="only screen and (max-width: 640px)" rel="alternate" >
+<link href="https://plus.google.com/107042724082110303692/" rel="author" >
+<link href="http://www.sherdog.com/fighter/news/Mauricio-Rua-5707" rel="next" ><script type="text/javascript" src="http://www1.cdn.sherdog.com/2337/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://www2.cdn.sherdog.com/2337/ngallery/script.js"></script>
+<script type="text/javascript" src="http://cdn.springboardplatform.com/storage/js/social_widget/sw.js"></script>
+<script type="text/javascript" async="async" data-client-id="jGaUosMPBEykITP" src="//d3qxwzhswv93jk.cloudfront.net/esf.js"></script>
+<script type="text/javascript" src="http://www3.cdn.sherdog.com/2337/js/audience_science_tag.js"></script>
+<script type="text/javascript" src="http://www1.cdn.sherdog.com/2337/js/w/handlebars.js"></script>
+<script type="text/javascript" src="http://www3.cdn.sherdog.com/2337/js/w/geolocation.js"></script>
+<script type="text/javascript" src="http://www4.cdn.sherdog.com/2337/js/w/sticky_ad.js"></script>
+<script type="text/javascript" src="http://www3.cdn.sherdog.com/2337/js/w/global.js"></script>
+<script type="text/javascript" src="http://www2.cdn.sherdog.com/2337/js/w/pagefair.js"></script>
+<script type="text/javascript" src="http://cdn.springboard.gorillanation.com/storage/js/sb.html5.js"></script>
+<script type="text/javascript" src="http://cdn.springboard.gorillanation.com/storage/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.springboardplatform.com/jsapi/embed"></script>
+<script type="text/javascript">
+    //<!--
+
+    $(function() {
+	    var slideVideoPanelPage = 0;
+	    var slideVideoPanelLimit = parseInt($("#sd_video_list div.item").length / 3) + ($("#sd_video_list div.item").length % 3 > 0 ? 1 : 0);
+	    function slideVideoPanel(page) {
+	        var init = page * 3;
+	        var end = init + 3; 
+	        $("#sd_video_list div.item").fadeOut().filter(function(index){
+	            return index >= init && index < end;
+            }).fadeIn();
+            slideVideoPanelPage = page;
+	    }
+	    slideVideoPanel(slideVideoPanelPage);
+	    $(".sd_video_list .footer div").click(function(){
+            if ($(this).hasClass("left")) {
+                if (slideVideoPanelPage > 0) {
+                    slideVideoPanel(slideVideoPanelPage - 1);
+                }
+            } else {
+                if (slideVideoPanelPage < (slideVideoPanelLimit - 1)) {
+                    slideVideoPanel(slideVideoPanelPage + 1);
+                }
+            }
+        });
+        function activateVideo(item) {
+            $("#sd_video_list div.item").removeClass("active");
+            item.addClass("active");
+            if (item.data("springboard") == 1) {
+    	        var original = document.createElement;
+                document.createElement = function (tag) {
+                    return original.call(document, tag);
+                };
+    	        var script = new document.createElement("script");
+            	script.type = "text/javascript";
+            	script.text = item.data("code");
+                $("#sd_video_player")
+        	        .html('<div class="videoPlayer" id="shd015"></div>')
+                    .append(script);
+	        } else {
+                $("#sd_video_player").html(item.data("code"));
+	        }
+        }
+        $("#sd_video_list div.item").click(function(){ activateVideo($(this)); });
+        $("#sd_video_player > div").click(function(){activateVideo($("#sd_video_list div.item:first"));});
+    });
+	    //-->
+</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));    //-->
+</script><script type="text/javascript">ggv2id='9d4318d9';</script><script type="text/javascript" src="//g2.gumgum.com/javascripts/ggv2.js"></script><!-- Header Tag Code --><script data-cfasync="false" type="text/javascript">/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "2.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u + new Date(Math.floor(new Date().getTime() / 6e5) * 6e5).getTime(); b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//www.insticator.com/embeds/script?sid=fc0dfd76-50f1-4ee7-9e23-c7def2f2a597&cbt=');/*]]>*/</script><!-- End Header Tag Code -->
+    <!-- BEGIN ANALYTICS SCRIPT -->
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('provide', 'adb', function(tracker, opts) {
+	var ad = document.createElement('ins');
+	ad.className = 'AdSense';
+	ad.style.display = 'block';
+	ad.style.position = 'absolute';
+	ad.style.top = '-1px';
+	ad.style.height = '1px';
+	document.body.appendChild(ad);
+	tracker.set('dimension' + opts.dimensionIndex, !ad.clientHeight);
+	tracker.set('dimension' + (opts.dimensionIndex + 1), I10C && !!I10C.Morph);
+	document.body.removeChild(ad);
+});
+
+ga('create', 'UA-94323-27', 'auto');
+ga('require', 'adb', {dimensionIndex: 5});
+ga('set', 'dimension2', 'Mauricio Rua');
+ga('send', 'pageview');
+if (typeof(window.I10C) !== 'undefined' && window.I10C.Morph == 1) { ga('send', 'event', {eventCategory: 'instartLogic', eventAction: 'true', transport: 'beacon'}); }
+    </script>
+    <!-- END ANALYTICS SCRIPT -->
+
+    <!-- BEGIN SESSION LENGTH TEST -->
+    <script type="text/javascript">
+    var winLoadedAt = new Date().getTime();
+    window.addEventListener('unload', function(event) {
+        var cTime = new Date().getTime();
+        var eValue = Math.round((cTime-winLoadedAt)/1000);
+        if (eValue >= 30) { eValue = '30+'; } else if (eValue < 10) { eValue = '0' + eValue; }
+        console.log('Pageview Duration: ' + eValue);
+        if (typeof(ga) != 'undefined') {
+            ga('send', 'event', 'Pageview Duration', eValue, {transport: 'beacon'});
+        }
+    }, false);
+    </script>
+    <!-- END SESSION LENGTH TEST -->
+
+    <!-- BEGIN PREBID/GPT -->
+<script type='text/javascript'>
+
+  var PREBID_TIMEOUT = 3000;
+
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  /* pbjs.initAdserver will be called either when all bids are back, or
+     when the timeout is reached.
+  */
+  function initAdserver() {               //load GPT library here
+    if (pbjs.initAdserverSet) return;
+    (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    pbjs.initAdserverSet = true;
+  };
+
+  function initAdserverTO() {
+    console.log('Prebid: Timeout occured');
+    initAdserver();
+  };
+  // Load GPT when timeout is reached.
+  //setTimeout(initAdserver, PREBID_TIMEOUT);
+  setTimeout(initAdserverTO, PREBID_TIMEOUT);
+
+  var pbjs = pbjs || {};
+  pbjs.que = pbjs.que || [];
+
+  // Load the Prebid Javascript Library Async. We recommend loading it 
+  // immediately after the initAdserver() and setTimeout functions.
+  (function() {
+    var pbjsEl = document.createElement('script'); 
+    pbjsEl.type = 'text/javascript';
+    pbjsEl.async = true; var isHttps = 'https:' === document.location.protocol;
+    pbjsEl.src = 'http://www1.cdn.sherdog.com/2337/js/prebid.0.12.0.oxneo.min.js';
+    var pbjsTargetEl = document.getElementsByTagName('head')[0];
+    pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
+  })();
+
+  pbjs.que.push(function() {
+    /* 1. Register bidder tag Ids
+    code:  Your GPT slot’s ad unit path.
+    sizes: All sizes your ad unit accepts. They should match with GPT.
+    */
+    var adUnits = [{
+      code: 'ad728',
+      sizes: [[728, 90], [970, 90]],
+      bids: [{
+        bidder: 'openx',
+        params: {
+          unit: '538160740',
+          delDomain : 'ox-d.evolvemedia.servedbyopenx.com'
+        }
+      },
+      {
+        bidder: 'appnexus',
+        params: {
+          placementId: '7485769'
+        }
+      },
+      {
+        bidder: 'aol',
+        params: {
+          placement: '3993576',
+          network: '9485.1',
+          alias: '3993576a'
+        }
+      },
+      {
+        bidder: 'rubicon',
+        params: {
+          accountId: '9366',
+          siteId: '16808',
+          zoneId: '448918'
+        }
+      },
+      {
+        bidder: 'sovrn',
+        params: {
+          tagid: '366511'
+        }
+      },
+      {
+        bidder: 'brealtime',
+        params: {
+          placementId: '8835031'
+        }
+      },
+      {
+        bidder: 'indexExchange',
+        params: {
+          id: '1',
+          siteID: '185563'
+        }
+      }]
+    }
+    ,
+	{
+      code: 'ad728ng',
+      sizes: [[728, 90]],
+      bids: [{
+        bidder: 'openx',
+        params: {
+          unit: '538160740',
+          delDomain : 'ox-d.evolvemedia.servedbyopenx.com'
+        }
+      },
+      {
+        bidder: 'aol',
+        params: {
+          placement: '3993576',
+          network: '9485.1',
+          alias: '3993576c'
+        }
+      },
+      {
+        bidder: 'rubicon',
+        params: {
+          accountId: '9366',
+          siteId: '16808',
+          zoneId: '448920'
+        }
+      },
+      {
+        bidder: 'indexExchange',
+        params: {
+          id: '3',
+          siteID: '185565'
+        }
+      }]
+    }
+    ,
+    {
+      code: 'ad300',
+      sizes: [[300, 250], [300, 600], [300, 1050]],
+      bids: [{
+        bidder: 'openx',
+        params: {
+          unit: '538160740',
+          delDomain : 'ox-d.evolvemedia.servedbyopenx.com'
+        }
+      },
+      {
+        bidder: 'appnexus',
+        params: {
+          placementId: '7485768'
+        }
+      },
+      {
+        bidder: 'aol',
+        params: {
+          placement: '3993578',
+          network: '9485.1',
+          alias: '3993578a'
+        }
+      },
+      {
+        bidder: 'rubicon',
+        params: {
+          accountId: '9366',
+          siteId: '16808',
+          zoneId: '448918'
+        }
+      },
+      {
+        bidder: 'sovrn',
+        params: {
+          tagid: '366507'
+        }
+      },
+      {
+        bidder: 'brealtime',
+        params: {
+          placementId: '8835026'
+        }
+      },
+      {
+        bidder: 'indexExchange',
+        params: {
+          id: '2',
+          siteID: '185564'
+        }
+      }]
+    }
+    ,
+    {
+      code: 'ad300ng',
+      sizes: [[300, 250]],
+      bids: [{
+        bidder: 'openx',
+        params: {
+          unit: '538160740',
+          delDomain : 'ox-d.evolvemedia.servedbyopenx.com'
+        }
+      },
+      {
+        bidder: 'appnexus',
+        params: {
+          placementId: '7485770'
+        }
+      },
+      {
+        bidder: 'aol',
+        params: {
+          placement: '4103426',
+          network: '9485.1',
+          alias: '4103426c'
+        }
+      },
+      {
+        bidder: 'rubicon',
+        params: {
+          accountId: '9366',
+          siteId: '16808',
+          zoneId: '448920'
+        }
+      },
+      {
+        bidder: 'sovrn',
+        params: {
+          tagid: '366508'
+        }
+      },
+      {
+        bidder: 'brealtime',
+        params: {
+          placementId: '8835028'
+        }
+      },
+      {
+        bidder: 'indexExchange',
+        params: {
+          id: '4',
+          siteID: '185566'
+        }
+      }]
+    }
+    ,
+    {
+      code: 'ad300st',
+      sizes: [[300, 250]],
+      bids: [{
+        bidder: 'openx',
+        params: {
+          unit: '538160740',
+          delDomain : 'ox-d.evolvemedia.servedbyopenx.com'
+        }
+      },
+      {
+        bidder: 'appnexus',
+        params: {
+          placementId: '7485771'
+        }
+      },
+      {
+        bidder: 'aol',
+        params: {
+          placement: '4103427',
+          network: '9485.1',
+          alias: '4103427v'
+        }
+      },
+      {
+        bidder: 'rubicon',
+        params: {
+          accountId: '9366',
+          siteId: '16808',
+          zoneId: '448922'
+        }
+      },
+      {
+        bidder: 'sovrn',
+        params: {
+          tagid: '366509'
+        }
+      },
+      {
+        bidder: 'brealtime',
+        params: {
+          placementId: '8835029'
+        }
+      },
+      {
+        bidder: 'indexExchange',
+        params: {
+          id: '5',
+          siteID: '185567'
+        }
+      }]
+    }
+    ,
+    {
+      code: 'ad320',
+      sizes: [[300, 50], [320, 50], [320, 100], [320, 150]],
+      bids: [{
+        bidder: 'openx',
+        params: {
+          unit: '538160740',
+          delDomain : 'ox-d.evolvemedia.servedbyopenx.com'
+        }
+      },
+      {
+        bidder: 'appnexus',
+        params: {
+          placementId: '7485772'
+        }
+      },
+      {
+        bidder: 'rubicon',
+        params: {
+          accountId: '9366',
+          siteId: '16808',
+          zoneId: '448918'
+        }
+      },
+      {
+        bidder: 'sovrn',
+        params: {
+          tagid: '366510'
+        }
+      },
+      {
+        bidder: 'brealtime',
+        params: {
+          placementId: '8835034'
+        }
+      },
+      {
+        bidder: 'indexExchange',
+        params: {
+          id: '6',
+          siteID: '185568'
+        }
+      }]
+    }
+    ];
+
+    pbjs.addAdUnits(adUnits);
+
+    pbjs.addCallback('adUnitBidsBack', function(adUnitCode){
+      console.log('Prebid: Ad unit bids back for : ', adUnitCode);
+    });
+
+    /* Request bids for the added ad units. If adUnits or adUnitCodes are
+       not specified, the function will request bids for all added ad units.
+    */
+    pbjs.requestBids({
+
+      /* The bidsBack function will be called when either timeout is
+         reached, or when all bids come back, whichever happens sooner.
+      */
+      bidsBackHandler: function(bidResponses) {
+        console.log('Prebid: bids are back, trying to init if not timeout');
+        initAdserver();
+      },
+
+      /* You can specify specific `adUnitCodes` to only request bids
+         for certain ad units.
+         adUnitCodes: ['code1', 'code2']
+      */
+
+      /* You can also make one off bid requests for the given `adUnits`. 
+         adUnits: [adUnit2, adUnit1]
+      */ 
+
+      /* The bidsBackHandler will be executed either when all bids are
+         back, or when the timeout is reached. 
+         timeout: 1000
+      */
+    })
+
+
+    /* 2. Configure Ad Server Targeting
+
+    The below section defines what key value targeting will be sent to GPT. 
+    For each bidder’s bid, Prebid.js will set the below 4 keys (hb_bidder, 
+    hb_adid, hb_pb, hb_size) with their corresponding values.
+
+    Bidders all have different recommended ad server line item targeting and 
+    creative setup. To remove the headache for you, Prebid.js has a default 
+    recommended query string targeting setting for all bidders.
+
+    If you’d like to customize the key value pairs, you can overwrite the 
+    settings as the below example shows. Let your ad ops team know about the 
+    change, so they can update the line item targeting accordingly.
+
+    */
+    
+    pbjs.bidderSettings = {
+      standard: {
+        adserverTargeting: [{
+          key: 'hb_bidder',
+          val: function(bidResponse) {
+            return bidResponse.bidderCode;
+          }
+        }, {
+          key: 'hb_adid',
+          val: function(bidResponse) {
+            return bidResponse.adId;
+          }
+        }, {
+          key: 'hb_pb',
+          val: function(bidResponse) {
+            var cpm = bidResponse.cpm;
+            if (cpm <= 1.00) {
+              return (Math.floor(cpm * 20) / 20).toFixed(2);
+            } else if (cpm <= 5.00) {
+              return (Math.floor(cpm * 10) / 10).toFixed(2);
+            } else if (cpm <= 20.00) {
+              return (Math.floor(cpm * 2) / 2).toFixed(2);
+            } else {
+              return '20.00';
+            }
+          }
+        }, {
+          key: 'hb_size',
+          val: function(bidResponse) {
+            return bidResponse.size;
+          }
+        }]
+      }
+    };
+
+  });
+
+</script>
+<script type='text/javascript'>
+
+var gptAds = gptAds || {};
+
+googletag.cmd.push(function() {
+
+  console.log('Prebid: googletag.cmd.push');
+
+if (!(typeof(window.I10C) !== 'undefined' && window.I10C.Morph == 1)) {
+gptAds['adoop']    = googletag.defineOutOfPageSlot('/4403/cr/sherdog/fightfinder', 'adoop').addService(googletag.pubads());
+} else {
+googletag.pubads().setTargeting('instartLogic', '1');
+}
+gptAds['ad728']    = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[728,90], [970,90]], 'ad728').addService(googletag.pubads()).setTargeting('pos', 'a');
+gptAds['ad300']    = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[300,250], [300,600], [300,1050]], 'ad300').addService(googletag.pubads()).setTargeting('pos', 'a');
+gptAds['ad600300'] = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[600,300]], 'ad600300').addService(googletag.pubads()).setTargeting('pos', 'a');
+gptAds['ad600']    = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[600,250]], 'ad600').addService(googletag.pubads()).setTargeting('pos', 'b');
+gptAds['ad320']    = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[300,50], [320,50], [320,100], [320,150]], 'ad320').addService(googletag.pubads()).setTargeting('pos', 'a');
+gptAds['ad728ng']  = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[728,90]], 'ad728ng').addService(googletag.pubads()).setTargeting('pos', 'c');
+gptAds['ad300ng']  = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[300,250]], 'ad300ng').addService(googletag.pubads()).setTargeting('pos', 'c');
+gptAds['ad300st']    = googletag.defineSlot('/4403/cr/sherdog/fightfinder', [[300,250]], 'ad300st').addService(googletag.pubads()).setTargeting('pos', 'v');
+googletag.pubads().setTargeting('ct', 'fightfinder').setTargeting('site', 'sherdog').setTargeting('fighter_id', '5707');
+  googletag.pubads().enableSingleRequest();
+//  googletag.pubads().disableInitialLoad();
+  googletag.pubads().collapseEmptyDivs(true);
+  googletag.enableServices();
+
+  pbjs.que.push(function() {
+    console.log('Prebid: pbjs.que.push');
+    /* Set query string targeting on all GPT ad units. The logic for deciding 
+       query strings is described in the section Configure AdServer Targeting. 
+       Note that this function has to be called after all ad units on page are 
+       defined. */
+    pbjs.setTargetingForGPTAsync();
+    console.log('Prebid: Are all bids available? : ' + pbjs.allBidsAvailable());
+    console.log('Prebid: Targeting params:')
+    console.log(pbjs.getAdserverTargeting());
+    console.log('Prebid: Dumping all bid objects to console:');
+    console.log(pbjs.getBidResponses());
+  });
+  
+});
+
+
+function refreshBids() {
+  pbjs.que.push(function() {
+    pbjs.requestBids({
+      timeout: PREBID_TIMEOUT,
+      bidsBackHandler: function() {
+        pbjs.setTargetingForGPTAsync();
+        googletag.pubads().refresh(); 
+      }
+    });
+  });
+}
+
+</script>
+<!-- END PREBID/GPT -->
+           <!-- BEGIN SB INGAGE TARGETING HEADER -->
+<script type='text/javascript'>
+var sbIngageTargeting = {
+    custom_params: [
+        { site : 'sherdog' },
+        { ct : 'fightfinder' },
+        { fighter_id : '5707' },
+    ],
+    zone : 'fightfinder'
+}
+</script>
+<!-- END SB INGAGE TARGETING -->
+    <script type="text/javascript">
+        var isPlayByPlay = false;
+    </script>
+</head>
+<body>
+    <div id="adoop" data-id="adoop" class="gpt-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('adoop'); });</script></div>    <div class="container">
+        <header>
+            <div id="header">
+                <div id="sherdog">
+                    <a id="sherdog_logo" href="/" title="Sherdog - The Authority in MMA"></a>
+                </div>
+                <div class="event_live" id="event_live"></div>
+                <div class="header_tools">
+                    <form method="get" action="/search.php">
+                        <input name="SearchTxt" type="text" placeholder="Search Sherdog.com" class="search"><input name="Go" type="button" value="Go" class="go">
+                    </form>
+                </div>
+            </div>
+            <!-- Menu -->
+            <nav>
+    <div id="socials">
+        <a target="_blank" href="https://www.youtube.com/user/officialsherdog?sub_confirmation=1" class="yt" title="Sherdog on Youtube"></a>
+        <a target="_blank" href="https://plus.google.com/+sherdog" class="gp" title="Sherdog on G+"></a>
+        <a target="_blank" href="https://twitter.com/sherdogdotcom" class="tw" title="Sherdog on Twitter"></a>
+        <a target="_blank" href="https://www.facebook.com/OfficialSherdog" class="fb" title="Sherdog on Facebook"></a>
+    </div>
+    <div id="navigation">
+                                    <div class="button richnav news">
+                    <a href="/news/news/list" onClick="ga('send', 'event', 'RichNav', 'News', '/news/news/list');">
+                        News                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="/news/news/list" onClick="ga('send', 'event', 'RichNav', 'News', '/news/news/list');">MMA News <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/boxing/" onClick="ga('send', 'event', 'RichNav', 'News', 'http://www.sherdog.com/boxing/');">Boxing News <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/kickboxing/" onClick="ga('send', 'event', 'RichNav', 'News', 'http://www.sherdog.com/kickboxing/');">Kickboxing News <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/tag/grappling" onClick="ga('send', 'event', 'RichNav', 'News', 'http://www.sherdog.com/tag/grappling');">Grappling News <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/news/pressreleases/list" onClick="ga('send', 'event', 'RichNav', 'News', 'http://www.sherdog.com/news/pressreleases/list');">Press Releases <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+    <div class="content">
+        <div class="col_three first one">
+    <div class="title_more black">
+        <span class="box">Featured News</span>
+    </div>
+    	<div class="item featured">
+		<a href="/news/news/Michelle-Waterson-Chokes-Out-Paige-VanZant-in-Quick-UFC-on-Fox-22-Main-Event-115137"  onClick="ga('send', 'event', 'RichNav', 'News', '/news/news/Michelle-Waterson-Chokes-Out-Paige-VanZant-in-Quick-UFC-on-Fox-22-Main-Event-115137');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161217072700_sfdsf.JPG" alt="Title" />
+			<span class="title">Michelle Waterson Chokes Out Paige VanZant in Quick UFC on Fox 22
+Main Event</span>
+		</a>
+	</div>
+			    					
+					</div>
+		<!-- Popular Threads -->
+<div class="col_three first">
+	<div class="title_more black">
+		<span class="box">Popular</span>
+	</div>
+	
+		<div class="item w_thumb">
+		<a href="/news/news/UFC-on-Fox-22-Bonuses-Waterson-Craig-Smith-Aldana-Pocket-3650K-115151"  onClick="ga('send', 'event', 'RichNav', 'News', '/news/news/UFC-on-Fox-22-Bonuses-Waterson-Craig-Smith-Aldana-Pocket-3650K-115151');">
+			<img src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161217075347_20161217073725_GettyImages630167190.JPG" alt="Title" />
+			<span class="title">UFC on Fox 22 Bonuses: Waterson, Craig, Smith, Aldana Pocket $50K</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/news/news/UFC-on-Fox-22-Prelims-Paul-Craig-Armbar-Submits-Luis-Henrique-da-Silva-in-Sacramento-115129"  onClick="ga('send', 'event', 'RichNav', 'News', '/news/news/UFC-on-Fox-22-Prelims-Paul-Craig-Armbar-Submits-Luis-Henrique-da-Silva-in-Sacramento-115129');">
+			<img src="http://www2.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161217050009_sd.JPG" alt="Title" />
+			<span class="title">UFC on Fox 22 Prelims: Paul Craig Armbar Submits Luis Henrique da...</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/news/news/UFC-on-Fox-22-VanZant-vs-Waterson-Results-PlaybyPlay-Updates-114983"  onClick="ga('send', 'event', 'RichNav', 'News', '/news/news/UFC-on-Fox-22-VanZant-vs-Waterson-Results-PlaybyPlay-Updates-114983');">
+			<img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161214090847_e.JPG" alt="Title" />
+			<span class="title">UFC on Fox 22 ‘VanZant vs. Waterson’ Results: Play-by-Play &amp;
+Updates</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/news/news/Muhammed-Lawal-Decisions-Satoshi-Ishii-in-Underwhelming-Bellator-169-Headliner-115101"  onClick="ga('send', 'event', 'RichNav', 'News', '/news/news/Muhammed-Lawal-Decisions-Satoshi-Ishii-in-Underwhelming-Bellator-169-Headliner-115101');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161216054225_B169_Dublin_New_1920x1080.JPG" alt="Title" />
+			<span class="title">Muhammed Lawal Decisions Satoshi Ishii in Underwhelming Bellator
+169...</span>
+		</a>
+    </div>
+	</div><!-- Blog Threads -->
+<div class="col_three last">
+    <div class="title_more black">
+        <span class="box">Blogs</span>
+    </div>
+    
+        <div class="item simple_link">
+        <a href="/blog/Joe-Smith-Jr-Knocks-Bernard-Hopkins-Out-of-the-Ring-Spoils-Legends-Last-Fight-115175" onClick="ga('send', 'event', 'RichNav', 'News', '/blog/Joe-Smith-Jr-Knocks-Bernard-Hopkins-Out-of-the-Ring-Spoils-Legends-Last-Fight-115175')">
+            <span class="title">Joe Smith Jr. Knocks Bernard Hopkins Out of the Ring, Spoils Legend’s Last Fight</span>
+        </a>
+    </div>
+    <div class="item simple_link">
+        <a href="/blog/Picking-Grinning-UFC-on-Fox-22-VanZant-vs-Waterson-115091" onClick="ga('send', 'event', 'RichNav', 'News', '/blog/Picking-Grinning-UFC-on-Fox-22-VanZant-vs-Waterson-115091')">
+            <span class="title">Picking & Grinning: UFC on Fox 22 ‘VanZant vs. Waterson’</span>
+        </a>
+    </div>
+    <div class="item simple_link">
+        <a href="/blog/HBO-Boxing-Weighin-Results-Bernard-Hopkins-Joe-Smith-Jr-Green-Lit-for-Final-1-115089" onClick="ga('send', 'event', 'RichNav', 'News', '/blog/HBO-Boxing-Weighin-Results-Bernard-Hopkins-Joe-Smith-Jr-Green-Lit-for-Final-1-115089')">
+            <span class="title">HBO Boxing Weigh-in Results: Bernard Hopkins, Joe Smith Jr. Green Lit for ‘Final 1’</span>
+        </a>
+    </div>
+    <div class="item simple_link">
+        <a href="/blog/Artem-Vakhitov-to-Defend-Light-Heavyweight-Title-Against-Saulo-Cavalari-at-Glory-38-115041" onClick="ga('send', 'event', 'RichNav', 'News', '/blog/Artem-Vakhitov-to-Defend-Light-Heavyweight-Title-Against-Saulo-Cavalari-at-Glory-38-115041')">
+            <span class="title">Artem Vakhitov to Defend Light Heavyweight Title Against Saulo Cavalari at Glory 38</span>
+        </a>
+    </div>
+    <div class="item simple_link">
+        <a href="/blog/Super-Lightweight-Champion-Terence-Crawford-Jailed-in-Omaha-115039" onClick="ga('send', 'event', 'RichNav', 'News', '/blog/Super-Lightweight-Champion-Terence-Crawford-Jailed-in-Omaha-115039')">
+            <span class="title">Super Lightweight Champion Terence Crawford Jailed in Omaha</span>
+        </a>
+    </div>
+</div><div class="feed">
+    <div class="title_more grey">
+        <span class="more box">Press Releases</span>
+    </div>
+    <a href="/news/pressreleases/Arise-Fighting-Championships-Returns-Saturday-95587" onClick="ga('send', 'event', 'RichNav', 'News', '/news/pressreleases/Arise-Fighting-Championships-Returns-Saturday-95587');">
+    Arise Fighting Championships Returns Saturday!</a></div>
+		
+    </div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                                                <div class="button richnav features">
+                    <a href="/news/articles/list" onClick="ga('send', 'event', 'RichNav', 'Features', '/news/articles/list');">
+                        Features                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="/news/articles/list" onClick="ga('send', 'event', 'RichNav', 'Features', '/news/articles/list');">Latest Features <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/blog" onClick="ga('send', 'event', 'RichNav', 'Features', 'http://www.sherdog.com/blog');">CheapSeats Blog <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/top-10" onClick="ga('send', 'event', 'RichNav', 'Features', 'http://www.sherdog.com/top-10');">Sherdog’s Top 10 <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/prospects-to-watch" onClick="ga('send', 'event', 'RichNav', 'Features', 'http://www.sherdog.com/prospects-to-watch');">Prospect Watch <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/where-is-he-now" onClick="ga('send', 'event', 'RichNav', 'Features', 'http://www.sherdog.com/where-is-he-now');">Where Is He Now <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+    <div class="content">
+        <div class="col_three first one">
+    <div class="title_more black">
+        <span class="box">Featured</span>
+    </div>
+    	<div class="item featured">
+		<a href="/news/articles/Matches-to-Make-After-UFC-on-Fox-22-115161"  onClick="ga('send', 'event', 'RichNav', 'Features', '/news/articles/Matches-to-Make-After-UFC-on-Fox-22-115161');">
+			<img src="http://www3.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161217091050_GettyImages630163872.JPG" alt="Title" />
+			<span class="title">Matches to Make After UFC on Fox 22</span>
+		</a>
+	</div>
+			    					
+					</div>
+		<!-- Popular Threads -->
+<div class="col_three first">
+	<div class="title_more black">
+		<span class="box">Popular</span>
+	</div>
+	
+		<div class="item w_thumb">
+		<a href="/news/articles/By-the-Numbers-UFC-on-Fox-22-115149"  onClick="ga('send', 'event', 'RichNav', 'Features', '/news/articles/By-the-Numbers-UFC-on-Fox-22-115149');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161217075256_GettyImages630163702.JPG" alt="Title" />
+			<span class="title">By the Numbers: UFC on Fox 22</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/news/articles/The-Walkmen-UFC-on-Fox-22-115127"  onClick="ga('send', 'event', 'RichNav', 'Features', '/news/articles/The-Walkmen-UFC-on-Fox-22-115127');">
+			<img src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161217014211_1DX_2654.JPG" alt="Title" />
+			<span class="title">The Walkmen: UFC on Fox 22</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/news/articles/1/Sherdogs-Top-10-Bellator-MMA-Submissions-115019"  onClick="ga('send', 'event', 'RichNav', 'Features', '/news/articles/1/Sherdogs-Top-10-Bellator-MMA-Submissions-115019');">
+			<img src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161215083353_Untitled2.JPG" alt="Title" />
+			<span class="title">Sherdog’s Top 10: Bellator MMA Submissions</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/news/articles/Opinion-US-AntiDoping-Agencys-UpHill-Climb--115017"  onClick="ga('send', 'event', 'RichNav', 'Features', '/news/articles/Opinion-US-AntiDoping-Agencys-UpHill-Climb--115017');">
+			<img src="http://www2.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161215074932_Untitled1.JPG" alt="Title" />
+			<span class="title">Opinion: U.S. Anti-Doping Agency’s Up-Hill Climb</span>
+		</a>
+    </div>
+	</div><div class="col_three last">
+    <div class="title_more black">
+        <span class="box">More</span>
+    </div>
+                <div class="item simple_link">
+            <a href="/tag/top-10" onClick="ga('send', 'event', 'RichNav', Features', '/tag/top-10');">
+                <span class="tag">#Sherdog’s Top 10: Gruesome Leg Injuries</span>
+                <span class="title"> </span>
+            </a>
+        </div>
+            <div class="item simple_link">
+            <a href="/tag/top-10" onClick="ga('send', 'event', 'RichNav', Features', '/tag/top-10');">
+                <span class="tag">#Sherdog’s Top 10: Worst Cuts</span>
+                <span class="title"> </span>
+            </a>
+        </div>
+            <div class="item simple_link">
+            <a href="/tag/top-10" onClick="ga('send', 'event', 'RichNav', Features', '/tag/top-10');">
+                <span class="tag">#Sherdog’s Top 10: Gruesome Arm Injuries</span>
+                <span class="title"> </span>
+            </a>
+        </div>
+            <div class="item simple_link">
+            <a href="/tag/top-10" onClick="ga('send', 'event', 'RichNav', Features', '/tag/top-10');">
+                <span class="tag">#Sherdog’s Top 10: Gruesome Head Injuries</span>
+                <span class="title"> </span>
+            </a>
+        </div>
+    </div>		
+    </div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                                                <div class="button richnav rankings">
+                    <a href="/news/rankings/list" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/news/rankings/list');">
+                        Rankings                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="http://www.sherdog.com/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114903" onClick="ga('send', 'event', 'RichNav', 'Rankings', 'http://www.sherdog.com/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114903');">Divisional Rankings <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/news/rankings/Sherdogcoms-PoundforPound-Top-10-109353" onClick="ga('send', 'event', 'RichNav', 'Rankings', 'http://www.sherdog.com/news/rankings/Sherdogcoms-PoundforPound-Top-10-109353');">Pound-4-Pound  <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/news/rankings/Sherdogcoms-WMMA-PoundforPound-Top-10-109411" onClick="ga('send', 'event', 'RichNav', 'Rankings', 'http://www.sherdog.com/news/rankings/Sherdogcoms-WMMA-PoundforPound-Top-10-109411');">Women’s Pound-for-Pound <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/news/rankings/Sherdogcoms-Boxing-PoundforPound-Top-10-112413" onClick="ga('send', 'event', 'RichNav', 'Rankings', 'http://www.sherdog.com/news/rankings/Sherdogcoms-Boxing-PoundforPound-Top-10-112413');">Boxing P4P Rankings <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+	<div class="content">
+		<div class="col_three first one">
+    <div class="title_more black">
+        <span class="box">Latest Featured</span>
+    </div>
+    	<div class="item featured">
+		<a href="/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114903"  onClick="ga('send', 'event', 'RichNav', 'Rankings', '/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114903');">
+			<img src="http://www1.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161213075828_GettyImages629042864.JPG" alt="Title" />
+			<span class="title">Sherdog’s Official Mixed Martial Arts Rankings</span>
+		</a>
+	</div>
+			    					
+					</div>
+		<div class="col_three two">
+	<div class="title_more black">
+		<span class="box">Rank by weight class</span>
+	</div>
+	<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Stipe-Miocic-39537" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Stipe-Miocic-39537');">  
+    		<img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/14435136911MG_2010.jpg" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Heavyweight    		</span>
+    		<span class="title">Stipe Miocic</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Daniel-Cormier-52311" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Daniel-Cormier-52311');">  
+    		<img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/fighter/1392328986632_20140213015944_daniel_cormier.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Light Heavyweight    		</span>
+    		<span class="title">Daniel Cormier</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Michael-Bisping-10196" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Michael-Bisping-10196');">  
+    		<img src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/fighter/1400011691402_20140513010331_1MG_5076.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Middleweight    		</span>
+    		<span class="title">Michael Bisping</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Tyron-Woodley-42605" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Tyron-Woodley-42605');">  
+    		<img src="http://www2.cdn.sherdog.com/image_crop/44/44/_images/fighter/1338976371777_20090622093942_tyronwoodley.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Welterweight    		</span>
+    		<span class="title">Tyron Woodley</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Conor-McGregor-29688" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Conor-McGregor-29688');">  
+    		<img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398036935883_20140420043104_1DX_2509.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Featherweight    		</span>
+    		<span class="title">Conor McGregor</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Conor-McGregor-29688" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Conor-McGregor-29688');">  
+    		<img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398036935883_20140420043104_1DX_2509.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Featherweight    		</span>
+    		<span class="title">Conor McGregor</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Dominick-Cruz-12107" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Dominick-Cruz-12107');">  
+    		<img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/fighter/1399010118023_20130208010825_dominick_cruz.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Bantamweight    		</span>
+    		<span class="title">Dominick Cruz</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Demetrious-Johnson-45452" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Demetrious-Johnson-45452');">  
+    		<img src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398042375985_20140420060025_1MG_0022.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Flyweight    		</span>
+    		<span class="title">Demetrious Johnson</span>
+    	</a>
+    </div>
+</div>
+<div class="col_half">
+    <div class="item w_thumb">
+        <a href="/fighter/Amanda-Nunes-31496" onClick="ga('send', 'event', 'RichNav', 'Rankings', '/fighter/Amanda-Nunes-31496');">  
+    		<img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/1371115206315_20130213124515_amanda_nunes.JPG" alt="Fighter Thumbnail">
+    		<span class="tag">
+    		    Bantamweight    		</span>
+    		<span class="title">Amanda Nunes</span>
+    	</a>
+    </div>
+</div>
+</div>		
+	<div class="col_three last three">
+	<div class="title_more black">
+		<span class="box">Infographics</span>
+	</div>
+		
+</div>
+	    </div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                                                <div class="button richnav fight-finder">
+                    <a href="/events" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/events');">
+                        Fight Finder                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="/organizations/Ultimate-Fighting-Championship-2" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/organizations/Ultimate-Fighting-Championship-2');">UFC Fights <span>&raquo;</span></a></li>
+                                                                            <li><a href="/organizations/Bellator-Fighting-Championships-1960" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/organizations/Bellator-Fighting-Championships-1960');">Bellator Fights <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/organizations/World-Series-of-Fighting-5449" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', 'http://www.sherdog.com/organizations/World-Series-of-Fighting-5449');">WSOF Fights  <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/organizations/One-Fighting-Championship-3877" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', 'http://www.sherdog.com/organizations/One-Fighting-Championship-3877');">One FC Fights <span>&raquo;</span></a></li>
+                                                                            <li><a href="/events" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/events');">Full Calendar <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+    <div class="content">
+    	<div class="col_three first">
+    <div class="title_more black">
+            <span class="box">Next Fight</span>
+    </div>
+        
+    <div class="item featured_fight">
+       <a href="/events/UFC-207-Nunes-vs-Rousey-55005" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/events/UFC-207-Nunes-vs-Rousey-55005');"> 
+               <span class="big_title"> Nunes<span class="versus"> VS </span>Rousey</span> 
+               <span class="versus_thumbs"> 
+                       <img itemprop="image" src="http://www3.cdn.sherdog.com/image_crop/100/100/_images/fighter/1371115206315_20130213124515_amanda_nunes.JPG" class="fighter_1"> 
+                       <span class="versus">VS</span> 
+                       <img itemprop="image" src="http://www4.cdn.sherdog.com/image_crop/100/100/_images/fighter/1392328616736_20131219091702_ronda_rousey.JPG" class="fighter_1"> 
+               </span> 
+               <span class="title">UFC 207</span> 
+               <span class="date">December, 30, 2016</span> 
+       </a> 
+    </div>
+</div><div class="col_three">
+        <div class="title_more black">
+                <span class="box">Recent Fights</span>
+        </div>
+        
+            
+    <div class="item recent_fight">
+        <a href="/events/UFC-on-Fox-22-VanZant-vs-Waterson-55003"  onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/events/UFC-on-Fox-22-VanZant-vs-Waterson-55003');">
+           <span class="col_half">
+               <span class="info">
+                       <span class="title">Michelle Waterson</span>
+                       <span class="final_result small win">
+                           win                       </span>
+               </span>
+               <img src="http://www2.cdn.sherdog.com/image_crop/44/44/_images/fighter/1410318776308_20140908095242_1DX_4741.JPG" alt="Michelle Waterson">
+           </span>
+           <span class="versus">vs</span>
+           <span class="col_half right">
+               <span class="info">
+                       <span class="title">Paige VanZant</span>
+                       <span class="final_result small loss">
+                           loss                       </span>
+               </span>
+               <img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/1416711522992_20130106092313_Paige_Van_Zant.JPG" alt="Michelle Waterson">
+           </span>
+       </a>
+   </div>
+    
+    <div class="item recent_fight">
+        <a href="/events/UFC-206-Holloway-vs-Pettis-55001"  onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/events/UFC-206-Holloway-vs-Pettis-55001');">
+           <span class="col_half">
+               <span class="info">
+                       <span class="title">Max Holloway</span>
+                       <span class="final_result small win">
+                           win                       </span>
+               </span>
+               <img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398036433658_20131219092737_max_holloway.JPG" alt="Max Holloway">
+           </span>
+           <span class="versus">vs</span>
+           <span class="col_half right">
+               <span class="info">
+                       <span class="title">Anthony Pettis</span>
+                       <span class="final_result small loss">
+                           loss                       </span>
+               </span>
+               <img src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398041986454_20130127012800_anthony_pettis.JPG" alt="Max Holloway">
+           </span>
+       </a>
+   </div>
+    
+    <div class="item recent_fight">
+        <a href="/events/UFC-Fight-Night-102-Lewis-vs-Abdurakhimov-54999"  onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/events/UFC-Fight-Night-102-Lewis-vs-Abdurakhimov-54999');">
+           <span class="col_half">
+               <span class="info">
+                       <span class="title">Derrick Lewis</span>
+                       <span class="final_result small win">
+                           win                       </span>
+               </span>
+               <img src="http://www2.cdn.sherdog.com/image_crop/44/44/_images/fighter/1397867292500_20140418052757_20130305054842_Lewiswhite_vs_Shiverswhite_02.JPG" alt="Derrick Lewis">
+           </span>
+           <span class="versus">vs</span>
+           <span class="col_half right">
+               <span class="info">
+                       <span class="title">Shamil Abdurakhimov</span>
+                       <span class="final_result small loss">
+                           loss                       </span>
+               </span>
+               <img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/14281709015D3_6438.jpg" alt="Derrick Lewis">
+           </span>
+       </a>
+   </div>
+</div><div class="col_three last three">
+	<div class="title_more black">
+		<span class="box">Popular Fighters</span>
+	</div>
+	
+    <div class="item w_thumb popular-fighter">
+    <a href="/fighter/Ronda-Rousey-73073" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/fighter/Ronda-Rousey-73073');">  
+		<img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/fighter/1392328616736_20131219091702_ronda_rousey.JPG" alt="Title">
+		<span class="title">Ronda Rousey</span>
+		<span class="tag">Bantamweight</span>
+		<span class="tag sub">12 - 1 - 0</span>
+	</a>
+</div>
+<div class="item w_thumb popular-fighter">
+    <a href="/fighter/Conor-McGregor-29688" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/fighter/Conor-McGregor-29688');">  
+		<img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398036935883_20140420043104_1DX_2509.JPG" alt="Title">
+		<span class="title">Conor McGregor</span>
+		<span class="tag">Featherweight</span>
+		<span class="tag sub">21 - 3 - 0</span>
+	</a>
+</div>
+<div class="item w_thumb popular-fighter">
+    <a href="/fighter/Jon-Jones-27944" onClick="ga('send', 'event', 'RichNav', 'Fight Finder', '/fighter/Jon-Jones-27944');">  
+		<img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/fighter/1405363476854_20140714113923_1MG_7562.JPG" alt="Title">
+		<span class="title">Jon Jones</span>
+		<span class="tag">Light Heavyweight</span>
+		<span class="tag sub">22 - 1 - 0</span>
+	</a>
+</div>
+</div>    </div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                                                <div class="button richnav all-access">
+                    <a href="/all-access" onClick="ga('send', 'event', 'RichNav', 'All Access', '/all-access');">
+                        All Access                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="/videos" onClick="ga('send', 'event', 'RichNav', 'All Access', '/videos');">Videos <span>&raquo;</span></a></li>
+                                                                            <li><a href="/radio" onClick="ga('send', 'event', 'RichNav', 'All Access', '/radio');">Radio <span>&raquo;</span></a></li>
+                                                                            <li><a href="/mma-technique-of-the-week" onClick="ga('send', 'event', 'RichNav', 'All Access', '/mma-technique-of-the-week');">Technique of the Week Videos <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/tag/year-end-awards" onClick="ga('send', 'event', 'RichNav', 'All Access', 'http://www.sherdog.com/tag/year-end-awards');">Yearly Awards <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/mma-at-20" onClick="ga('send', 'event', 'RichNav', 'All Access', 'http://www.sherdog.com/mma-at-20');">MMA at 20 <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+    <div class="content">
+        <div class="col_three first one">
+    <div class="title_more black">
+        <span class="box">Just In - All Access</span>
+    </div>
+    	<div class="item featured">
+		<a href="/news/news/Video-Call-of-Duty-Narrative-Director-Details-Scary-Conor-McGregor-Confrontation-113157"  onClick="ga('send', 'event', 'RichNav', 'AllAccess', '/news/news/Video-Call-of-Duty-Narrative-Director-Details-Scary-Conor-McGregor-Confrontation-113157');">
+			<img src="http://www1.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161103034144_7i.JPG" alt="Title" />
+			<span class="title">Video: ‘Call of Duty’ Narrative Director Details Scary Conor...</span>
+		</a>
+	</div>
+			    					
+					</div>
+		<div class="col_three first one">
+    <div class="title_more black">
+        <span class="box">Radio</span>
+    </div>
+        <div class="item featured">
+        <a href="/radio/Beatdown-WSOF-President-Ray-Sefo-UFC-on-Fox-Recap-4959"  onClick="ga('send', 'event', 'RichNav', 'AllAccess', '/radio/Beatdown-WSOF-President-Ray-Sefo-UFC-on-Fox-Recap-4959');">
+            <img src="http://www2.cdn.sherdog.com/image_crop/200/125/_images/radio/20161219012411_sefo.JPG" alt="Title" />
+            <span class="title">Beatdown: WSOF President Ray Sefo, UFC on Fox Recap</span>
+        </a>
+    </div>
+</div>
+		<div class="col_three first one">
+    <div class="title_more black">
+        <span class="box">Video</span>
+    </div>
+        <div class="item featured">
+        <a href="/videos/videointerview/Mickey-Gall-My-Reaction-When-Sage-Northcutt-Turned-Heel-9967"  onClick="ga('send', 'event', 'RichNav', 'AllAccess', '/videos/videointerview/Mickey-Gall-My-Reaction-When-Sage-Northcutt-Turned-Heel-9967');">
+            <img src="http://www3.cdn.sherdog.com/image_crop/200/125/_images/videos/20161218095628_Untitled3.JPG" alt="Title" />
+            <span class="title">Mickey Gall: My Reaction When Sage Northcutt Turned Heel</span>
+        </a>
+    </div>
+</div>
+		    </div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                                                <div class="button richnav pictures">
+                    <a href="/pictures" onClick="ga('send', 'event', 'RichNav', 'Pictures', '/pictures');">
+                        Pictures                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="http://www.sherdog.com/pictures/gallery/fighter/73073/" onClick="ga('send', 'event', 'RichNav', 'Pictures', 'http://www.sherdog.com/pictures/gallery/fighter/73073/');">Ronda Rousey <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/pictures/gallery/fighter/26252/" onClick="ga('send', 'event', 'RichNav', 'Pictures', 'http://www.sherdog.com/pictures/gallery/fighter/26252/');">Miesha Tate <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.com/pictures" onClick="ga('send', 'event', 'RichNav', 'Pictures', 'http://www.sherdog.com/pictures');">Photo Galleries <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+	<div class="content">
+	    <div class="col_two first">
+	<div class="title_more black">
+		<span class="box">Featured gallery</span>
+	</div>
+	
+	    <div class="item featured_gallery">
+    	<a href="/pictures/event/UFC-on-Fox-22-Slideshow-115141"  onClick="ga('send', 'event', 'RichNav', 'Pictures', '/pictures/event/UFC-on-Fox-22-Slideshow-115141');">
+    		<span class="big_title">UFC on Fox 22 Slideshow</span>
+    		<img class="featured_image" itemprop="image" src="http://www4.cdn.sherdog.com/image_crop/200/125/_images/pictures/20161217073725_GettyImages630167172_thumb.JPG">
+    		<span class="thumbs">
+    		        			    <img itemprop="image" src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/pictures/20161217073724_GettyImages630163702_thumb.JPG">			
+    			    			    <img itemprop="image" src="http://www2.cdn.sherdog.com/image_crop/44/44/_images/pictures/20161217073725_GettyImages630163872_thumb.JPG">			
+    			    			    <img itemprop="image" src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/pictures/20161217073725_GettyImages630167172_thumb.JPG">			
+    			    			    <img itemprop="image" src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/pictures/20161217073725_GettyImages630167190_thumb.JPG">			
+    			    			    <img itemprop="image" src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/pictures/20161217073747_GettyImages630165526_thumb.JPG">			
+    			    			    <img itemprop="image" src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/pictures/20161217073822_GettyImages630161638_thumb.JPG">			
+    			    		</span>
+    		<span class="blurb">
+    			Quick images from Saturday night's UFC on Fox 22 card:    		</span>
+    	</a>
+    </div>
+</div>
+		<div class="col_two last">
+	<div class="title_more black">
+		<span class="box">Latest galleries</span>
+	</div>
+	
+		<div class="item w_thumb">
+		<a href="/pictures/event/UFC-on-Fox-22-Slideshow-115141"  onClick="ga('send', 'event', 'RichNav', 'Pictures', '/pictures/event/UFC-on-Fox-22-Slideshow-115141');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/44/44/img/default_300x300.jpg" alt="Title" />
+			<span class="title">UFC on Fox 22 Slideshow</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/pictures/event/UFC-on-Fox-22-Ceremonial-Weighin-Pictures-115095"  onClick="ga('send', 'event', 'RichNav', 'Pictures', '/pictures/event/UFC-on-Fox-22-Ceremonial-Weighin-Pictures-115095');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/44/44/img/default_300x300.jpg" alt="Title" />
+			<span class="title">UFC on Fox 22 Ceremonial Weigh-in Pictures</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/pictures/event/UFC-on-Fox-22-Official-Weighin-Pictures-115073"  onClick="ga('send', 'event', 'RichNav', 'Pictures', '/pictures/event/UFC-on-Fox-22-Official-Weighin-Pictures-115073');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/44/44/img/default_300x300.jpg" alt="Title" />
+			<span class="title">UFC on Fox 22 Official Weigh-in Pictures</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="/pictures/event/UFC-on-Fox-22-Open-Workout-Pictures-115053"  onClick="ga('send', 'event', 'RichNav', 'Pictures', '/pictures/event/UFC-on-Fox-22-Open-Workout-Pictures-115053');">
+			<img src="http://www2.cdn.sherdog.com/image_crop/44/44/_images/thumbnails/20161215061314_1DX_7634.JPG" alt="Title" />
+			<span class="title">UFC on Fox 22 Open Workout Pictures</span>
+		</a>
+    </div>
+					
+</div>
+			</div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                                                <div class="button richnav forum">
+                    <a href="http://www.sherdog.net/forums/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://www.sherdog.net/forums/');">
+                        Forum                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="http://www.sherdog.net/forums/f2/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://www.sherdog.net/forums/f2/');">UFC Discussion <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.net/forums/f61/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://www.sherdog.net/forums/f61/');">Worldwide MMA Discussion <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.net/forums/f8/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://www.sherdog.net/forums/f8/');">Ask the fighters <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.net/forums/f10/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://www.sherdog.net/forums/f10/');">Training discussion <span>&raquo;</span></a></li>
+                                                                            <li><a href="http://www.sherdog.net/forums/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://www.sherdog.net/forums/');">All forums <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+	<div class="content">
+		<div class="col_three first">
+	<div class="title_more black">
+		<span class="box">Featured Threads</span>
+	</div>
+		<div class="item featured">
+		<a href="http://forums.sherdog.com/threads/mickey-gall-quickly-earning-my-ire-as-one-of-most-hated-fighters.3425329/"  onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/mickey-gall-quickly-earning-my-ire-as-one-of-most-hated-fighters.3425329/');">
+			<img src="http://www3.cdn.sherdog.com/image_crop/200/125/_images/featured/standard/20161217081829_GettyImages630165526.JPG" alt="Title" />
+			<span class="title">Most Wanted</span>
+		</a>
+	</div>
+			    					
+					</div><!-- Popular Threads -->
+<div class="col_three first">
+	<div class="title_more black">
+		<span class="box">Popular threads</span>
+	</div>
+	
+		<div class="item w_thumb">
+		<a href="http://forums.sherdog.com/threads/sage-verbally-abusing-gall-in-the-middle-of-their-fight.3425267/"  onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/sage-verbally-abusing-gall-in-the-middle-of-their-fight.3425267/');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/44/44/_images/fighter/1441070312827Q2903.jpg" alt="Title" />
+			<span class="title">Turning Heel?</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="http://forums.sherdog.com/threads/faber-and-hopkins-retire-on-the-same-night.3425355/"  onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/faber-and-hopkins-retire-on-the-same-night.3425355/');">
+			<img src="http://www1.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398037596849_20140204104729_urijah_faber.JPG" alt="Title" />
+			<span class="title">Saying Goodbye</span>
+		</a>
+    </div>
+		<div class="item w_thumb">
+		<a href="http://forums.sherdog.com/threads/ultimate-sherdog-classics-memes-and-legends.3209641/"  onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/ultimate-sherdog-classics-memes-and-legends.3209641/');">
+			<img src="http://www3.cdn.sherdog.com/image_crop/44/44/_images/fighter/1398036935883_20140420043104_1DX_2509.JPG" alt="Title" />
+			<span class="title">The Classics</span>
+		</a>
+    </div>
+	</div><div class="col_three last">
+	<div class="title_more black">
+		<span class="box">Latest Threads</span>
+	</div>
+
+		<div class="item simple_link">
+		<a href="http://forums.sherdog.com/threads/3426945/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/3426945/')">
+		    <span class="title">
+		        After losing 2 gimme fights in his last 3 bouts, where does Sage
+Northcutt...	        </span>
+	    </a>
+	</div>
+	<div class="item simple_link">
+		<a href="http://forums.sherdog.com/threads/3426943/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/3426943/')">
+		    <span class="title">
+		        Platinum Perry behind Paul Craig's Braveheart facepaint	        </span>
+	    </a>
+	</div>
+	<div class="item simple_link">
+		<a href="http://forums.sherdog.com/threads/3426947/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/3426947/')">
+		    <span class="title">
+		        Jon Jones calls Conor McG a manlet: "I get no points talking about
+how I...	        </span>
+	    </a>
+	</div>
+	<div class="item simple_link">
+		<a href="http://forums.sherdog.com/threads/3426935/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/3426935/')">
+		    <span class="title">
+		        haha...JJ boy won't issue an open striking only challenge though...	        </span>
+	    </a>
+	</div>
+	<div class="item simple_link">
+		<a href="http://forums.sherdog.com/threads/3426939/" onClick="ga('send', 'event', 'RichNav', 'Forum', 'http://forums.sherdog.com/threads/3426939/')">
+		    <span class="title">
+		        Leave my belt alone	        </span>
+	    </a>
+	</div>
+</div>
+		
+	</div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                                                <div class="button richnav boxing">
+                    <a href="/tag/boxing" onClick="ga('send', 'event', 'RichNav', 'Boxing', '/tag/boxing');">
+                        Boxing                    </a>
+                    <div class="dropdown">
+                        <div class="content">
+                            <div class="col_left">
+                                <ul>
+                                                                            <li><a href="/tag/boxing" onClick="ga('send', 'event', 'RichNav', 'Boxing', '/tag/boxing');">Boxing <span>&raquo;</span></a></li>
+                                                                    </ul>
+                                                            </div>
+                            <div class="col_right">
+    <div class="content">
+        <div class="col_boxing_news">
+    <div class="title_more black">
+        <span class="box">Boxing News</span>
+    </div>
+    <div class="boxing_news">
+        	<div class="item featured">
+		<a href="/blog/Joe-Smith-Jr-Knocks-Bernard-Hopkins-Out-of-the-Ring-Spoils-Legends-Last-Fight-115175"  onClick="ga('send', 'event', 'RichNav', 'Boxing', '/blog/Joe-Smith-Jr-Knocks-Bernard-Hopkins-Out-of-the-Ring-Spoils-Legends-Last-Fight-115175');">
+			<img src="http://www2.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161217095525_f.JPG" alt="Title" />
+			<span class="title">Joe Smith Jr. Knocks Bernard Hopkins Out of the Ring, Spoils...</span>
+		</a>
+	</div>
+			    					
+						<div class="item featured">
+		<a href="/news/news/Boxing-Gennady-GGG-Golovkin-to-Fight-Daniel-Jacobs-in-March-115131"  onClick="ga('send', 'event', 'RichNav', 'Boxing', '/news/news/Boxing-Gennady-GGG-Golovkin-to-Fight-Daniel-Jacobs-in-March-115131');">
+			<img src="http://www3.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161217035049_20151007062004_1DX_7026.JPG" alt="Title" />
+			<span class="title">Boxing: Gennady ‘GGG’ Golovkin to Fight Daniel Jacobs in March</span>
+		</a>
+	</div>
+			    					
+						<div class="item featured">
+		<a href="/blog/Super-Lightweight-Champion-Terence-Crawford-Jailed-in-Omaha-115039"  onClick="ga('send', 'event', 'RichNav', 'Boxing', '/blog/Super-Lightweight-Champion-Terence-Crawford-Jailed-in-Omaha-115039');">
+			<img src="http://www4.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161215015508_20151024090601_CSInPsIUsAAXZEp.JPG" alt="Title" />
+			<span class="title">Super Lightweight Champion Terence Crawford Jailed in Omaha</span>
+		</a>
+	</div>
+			    					
+					    </div>
+</div>
+		    </div>
+</div>                        </div>
+                        <div class="footer"></div>
+                    </div>
+                </div>
+                    
+<div class="button richnav fight_odds">
+<a target="_blank" href="http://www.bigonsports.com/odds-comparison/box/">Fight Odds</a>
+</div>
+
+    </div>
+</nav>        </header>
+        <div class='content top_ads'>
+            <div class="ads top_ad">
+                <div class="ad leaderboard"><div id="ad728" data-id="ad728" class="gpt-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad728'); });</script></div></div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="col_left" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="description" content='Mauricio Rua "Shogun", was born in Curitiba, Parana.'/>
+        <section>
+            <div class="module bio_fighter vcard">
+                                <h1 itemprop="name"><span class="fn">Mauricio Rua</span><br /><span class="nickname">"<em>Shogun</em>"</span></h1>
+                                <div class="content">
+                    <div>
+                        <img itemprop="image" src="http://www1.cdn.sherdog.com/image_crop/200/300/_images/fighter/20140321015346_1MG_9219.JPG" class="profile_image photo" alt="Mauricio Rua" />
+                        <div class="data">
+                            <div class="bio">
+                                <div class="birth_info">
+                                    <span class="item birthday">
+                                        Born: <span itemprop="birthDate">1981-11-25</span><br />
+                                        <strong>AGE: 35</strong>
+                                    </span>
+                                                                        <span class="item birthplace">
+                                        <img src="http://www2.cdn.sherdog.com/2337/img/w/flags/br.png" class="big_flag" alt="Country" />
+                                                                                    <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="adr"><span itemprop="addressLocality" class="locality">Curitiba, Parana</span></span><br />
+                                                                                <strong itemprop="nationality">Brazil</strong>
+                                    </span>
+                                                                    </div>
+                                <div class="size_info">
+                                    <span class="item height">
+                                        Height<br />
+                                        <strong>6'1"</strong><br/>
+                                        185.42 cm                                    </span>
+                                    <span class="item weight">
+                                        Weight<br />
+                                        <strong>205 lbs</strong><br/>
+                                        92.99 kg                                    </span>
+                                                                        <h5 class="item association">
+                                        Association:<br />
+                                                                                <strong><span itemprop="memberOf" itemscope itemtype="http://www.schema.org/Organization"><a class="association" itemprop="url" href="/stats/fightfinder?association=Universidade da Luta"><span itemprop="name">Universidade da Luta</span></a></span></strong>
+                                    </h5>
+                                    <br />
+                                                                        <h6 class="item wclass">
+                                        Class: <strong class="title">Light Heavyweight</strong>
+                                    </h6>
+                                </div>
+                            </div>
+                            <div class="record">
+                                <div class="count_history">
+                                    <div class="left_side">
+                                        <div class="bio_graph">
+                                                                                    <span class="card">
+                                                <span class="result">Wins</span>
+                                                <span class="counter">24</span>
+                                            </span>
+                                            <span class="graphics">
+                                                <span class="graph" style="width: 79%"></span>
+                                            </span>
+                                            <span class="graph_tag">19 KO/TKO (<em>79%</em>)</span>
+                                            <span class="graphics">
+                                                <span class="graph" style="width: 4%"></span>
+                                            </span>
+                                            <span class="graph_tag">1 SUBMISSIONS (<em>4%</em>)</span>
+                                            <span class="graphics">
+                                                <span class="graph" style="width: 17%"></span>
+                                            </span>
+                                            <span class="graph_tag">4 DECISIONS (<em>17%</em>)</span>
+                                                                                    </div>
+                                        <div class="bio_graph loser">
+                                            <span class="card">
+                                            <span class="result">Losses</span>
+                                            <span class="counter">10</span>
+                                            </span>
+                                            <span class="graphics">
+                                                <span class="graph" style="width: 40%"></span>
+                                            </span>
+                                            <span class="graph_tag">4 KO/TKO (<em>40%</em>)</span>
+                                            <span class="graphics">
+                                                <span class="graph" style="width: 30%"></span>
+                                            </span>
+                                            <span class="graph_tag">3 SUBMISSIONS (<em>30%</em>)</span>
+                                            <span class="graphics">
+                                                <span class="graph" style="width: 30%"></span>
+                                            </span>
+                                            <span class="graph_tag">3 DECISIONS (<em>30%</em>)</span>
+                                                                                    </div>
+                                    </div>
+                                                                    </div>
+                                                            </div>
+                            <div class="socialmedia">
+                                <div class="share_buttons">
+                                    
+            <div class="pw-widget pw-size-large">
+                <a class="pw-button-facebook"></a>
+                <a class="pw-button-twitter"></a>
+                <a class="pw-button-reddit"></a>
+                <a class="pw-button-googleplus"></a>
+                <a class="pw-button-stumbleupon"></a>
+                <a class="pw-button-email"></a>
+            </div>
+        <script src="http://i.po.st/static/v3/post-widget.js#publisherKey=3v0p44crgkijifd5c8sk&retina=true" 
+        type="text/javascript"></script>                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </section>
+        
+        <!-- Fighter Biography -->
+                <!-- End of fighter biography -->
+        
+                        <section>
+            <div class="module fight_history">
+                <div class="module_header">
+                    <h2>Fight History - Pro</h2>
+                </div>
+                <div class="content table">
+                    <table border="1">
+                        <tr class="table_head">
+                            <td class="col_one">Result</td>
+                            <td class="col_two">Fighter</td>
+                            <td class="col_three">Event</td>
+                            <td class="col_four">Method/Referee</td>
+                            <td class="col_five">R</td>
+                            <td class="col_six">Time</td>
+                        </tr>
+                                                                        <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Corey-Anderson-171723">Corey Anderson</a></td>
+                                                        <td><a href="/events/UFC-198-Werdum-vs-Miocic-50217"><span itemprop="award">UFC 198 - Werdum vs. Miocic</span></a><br /><span class="sub_line">May / 14 / 2016</span></td>
+                            <td>Decision (Split)<br /><span class="sub_line">Mario Yamasaki</span></td>
+                            <td>3</td>
+                            <td>5:00</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Antonio-Rogerio-Nogueira-2270">Antonio Rogerio Nogueira</a></td>
+                                                        <td><a href="/events/UFC-190-Rousey-vs-Correia-42221"><span itemprop="award">UFC 190 - Rousey vs. Correia</span></a><br /><span class="sub_line">Aug / 01 / 2015</span></td>
+                            <td>Decision (Unanimous)<br /><span class="sub_line">Mario Yamasaki</span></td>
+                            <td>3</td>
+                            <td>5:00</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Ovince-St-Preux-38842">Ovince St. Preux</a></td>
+                                                        <td><a href="/events/UFC-Fight-Night-56-Shogun-vs-St-Preux-40223">UFC Fight Night 56 - Shogun vs. St. Preux</a><br /><span class="sub_line">Nov / 08 / 2014</span></td>
+                            <td>KO (Punches)<br /><span class="sub_line">Mario Yamasaki</span></td>
+                            <td>1</td>
+                            <td>0:34</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Dan-Henderson-195">Dan Henderson</a></td>
+                                                        <td><a href="/events/UFC-Fight-Night-38-Shogun-vs-Henderson-2-35299">UFC Fight Night 38 - Shogun vs. Henderson 2</a><br /><span class="sub_line">Mar / 23 / 2014</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">Herb Dean</span></td>
+                            <td>3</td>
+                            <td>1:31</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/James-Te-Huna-9033">James Te Huna</a></td>
+                                                        <td><a href="/events/UFC-Fight-Night-33-Hunt-vs-Bigfoot-32293"><span itemprop="award">UFC Fight Night 33 - Hunt vs. Bigfoot</span></a><br /><span class="sub_line">Dec / 07 / 2013</span></td>
+                            <td>KO (Punch)<br /><span class="sub_line">John Sharp</span></td>
+                            <td>1</td>
+                            <td>1:03</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Chael-Sonnen-4112">Chael Sonnen</a></td>
+                                                        <td><a href="/events/UFC-Fight-Night-26-Shogun-vs-Sonnen-29795">UFC Fight Night 26 - Shogun vs. Sonnen</a><br /><span class="sub_line">Aug / 17 / 2013</span></td>
+                            <td>Submission (Guillotine Choke)<br /><span class="sub_line">Herb Dean</span></td>
+                            <td>1</td>
+                            <td>4:47</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Alexander-Gustafsson-26162">Alexander Gustafsson</a></td>
+                                                        <td><a href="/events/UFC-on-Fox-5-Henderson-vs-Diaz-23169">UFC on Fox 5 - Henderson vs. Diaz</a><br /><span class="sub_line">Dec / 08 / 2012</span></td>
+                            <td>Decision (Unanimous)<br /><span class="sub_line">Dan Miragliotta</span></td>
+                            <td>3</td>
+                            <td>5:00</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Brandon-Vera-4886">Brandon Vera</a></td>
+                                                        <td><a href="/events/UFC-on-Fox-4-Shogun-vs-Vera-20081"><span itemprop="award">UFC on Fox 4 - Shogun vs. Vera</span></a><br /><span class="sub_line">Aug / 04 / 2012</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">Herb Dean</span></td>
+                            <td>4</td>
+                            <td>4:09</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Dan-Henderson-195">Dan Henderson</a></td>
+                                                        <td><a href="/events/UFC-139-Shogun-vs-Henderson-17551">UFC 139 - Shogun vs. Henderson</a><br /><span class="sub_line">Nov / 19 / 2011</span></td>
+                            <td>Decision (Unanimous)<br /><span class="sub_line">Josh Rosenthal</span></td>
+                            <td>5</td>
+                            <td>5:00</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Forrest-Griffin-3526">Forrest Griffin</a></td>
+                                                        <td><a href="/events/UFC-134-Silva-vs-Okami-15454"><span itemprop="award">UFC 134 - Silva vs. Okami</span></a><br /><span class="sub_line">Aug / 27 / 2011</span></td>
+                            <td>KO (Punches)<br /><span class="sub_line">Marc Goddard</span></td>
+                            <td>1</td>
+                            <td>1:53</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Jon-Jones-27944">Jon Jones</a></td>
+                                                        <td><a href="/events/UFC-128-Shogun-vs-Jones-15483">UFC 128 - Shogun vs. Jones</a><br /><span class="sub_line">Mar / 19 / 2011</span></td>
+                            <td>TKO (Punches and Knees)<br /><span class="sub_line">Herb Dean</span></td>
+                            <td>3</td>
+                            <td>2:37</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Lyoto-Machida-7513">Lyoto Machida</a></td>
+                                                        <td><a href="/events/UFC-113-Machida-vs-Shogun-2-12390"><span itemprop="award">UFC 113 - Machida vs. Shogun 2</span></a><br /><span class="sub_line">May / 08 / 2010</span></td>
+                            <td>KO (Punches)<br /><span class="sub_line">Yves Lavigne</span></td>
+                            <td>1</td>
+                            <td>3:35</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Lyoto-Machida-7513">Lyoto Machida</a></td>
+                                                        <td><a href="/events/UFC-104-Machida-vs-Shogun-10333">UFC 104 - Machida vs. Shogun</a><br /><span class="sub_line">Oct / 24 / 2009</span></td>
+                            <td>Decision (Unanimous)<br /><span class="sub_line">Herb Dean</span></td>
+                            <td>5</td>
+                            <td>5:00</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Chuck-Liddell-192">Chuck Liddell</a></td>
+                                                        <td><a href="/events/UFC-97-Redemption-9432"><span itemprop="award">UFC 97 - Redemption</span></a><br /><span class="sub_line">Apr / 18 / 2009</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">Mario Yamasaki</span></td>
+                            <td>1</td>
+                            <td>4:28</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Mark-Coleman-136">Mark Coleman</a></td>
+                                                        <td><a href="/events/UFC-93-Franklin-vs-Henderson-8864"><span itemprop="award">UFC 93 - Franklin vs. Henderson</span></a><br /><span class="sub_line">Jan / 17 / 2009</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">Kevin Mulhall</span></td>
+                            <td>3</td>
+                            <td>4:36</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Forrest-Griffin-3526">Forrest Griffin</a></td>
+                                                        <td><a href="/events/UFC-76-Knockout-5417">UFC 76 - Knockout</a><br /><span class="sub_line">Sep / 22 / 2007</span></td>
+                            <td>Submission (Rear-Naked Choke)<br /><span class="sub_line">Steve Mazzagatti</span></td>
+                            <td>3</td>
+                            <td>4:45</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Alistair-Overeem-461">Alistair Overeem</a></td>
+                                                        <td><a href="/events/Pride-33-Second-Coming-4392"><span itemprop="award">Pride 33 - Second Coming</span></a><br /><span class="sub_line">Feb / 24 / 2007</span></td>
+                            <td>KO (Punches)<br /><span class="sub_line">Steve Mazzagati</span></td>
+                            <td>1</td>
+                            <td>3:37</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Kazuhiro-Nakamura-6943">Kazuhiro Nakamura</a></td>
+                                                        <td><a href="/events/Pride-FC-Shockwave-2006-4316"><span itemprop="award">Pride FC - Shockwave 2006</span></a><br /><span class="sub_line">Dec / 31 / 2006</span></td>
+                            <td>Decision (Unanimous)<br /><span class="sub_line">N/A</span></td>
+                            <td>3</td>
+                            <td>5:00</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Kevin-Randleman-162">Kevin Randleman</a></td>
+                                                        <td><a href="/events/Pride-32-The-Real-Deal-4088"><span itemprop="award">Pride 32 - The Real Deal</span></a><br /><span class="sub_line">Oct / 21 / 2006</span></td>
+                            <td>Submission (Kneebar)<br /><span class="sub_line">Daisuke Noguchi</span></td>
+                            <td>1</td>
+                            <td>2:35</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Cyrille-Diabate-2191">Cyrille Diabate</a></td>
+                                                        <td><a href="/events/Pride-FC-Final-Conflict-Absolute-4013"><span itemprop="award">Pride FC - Final Conflict Absolute</span></a><br /><span class="sub_line">Sep / 10 / 2006</span></td>
+                            <td>TKO (Stomps)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>5:29</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Mark-Coleman-136">Mark Coleman</a></td>
+                                                        <td><a href="/events/Pride-31-Dreamers-3538">Pride 31 - Dreamers</a><br /><span class="sub_line">Feb / 26 / 2006</span></td>
+                            <td>TKO (Broken Arm)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>0:49</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Ricardo-Arona-1463">Ricardo Arona</a></td>
+                                                        <td><a href="/events/Pride-FC-Final-Conflict-2005-3184"><span itemprop="award">Pride FC - Final Conflict 2005</span></a><br /><span class="sub_line">Aug / 28 / 2005</span></td>
+                            <td>KO (Punches)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>2:54</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Alistair-Overeem-461">Alistair Overeem</a></td>
+                                                        <td><a href="/events/Pride-FC-Final-Conflict-2005-3184"><span itemprop="award">Pride FC - Final Conflict 2005</span></a><br /><span class="sub_line">Aug / 28 / 2005</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>6:42</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Antonio-Rogerio-Nogueira-2270">Antonio Rogerio Nogueira</a></td>
+                                                        <td><a href="/events/Pride-FC-Critical-Countdown-2005-3053"><span itemprop="award">Pride FC - Critical Countdown 2005</span></a><br /><span class="sub_line">Jun / 26 / 2005</span></td>
+                            <td>Decision (Unanimous)<br /><span class="sub_line">N/A</span></td>
+                            <td>3</td>
+                            <td>5:00</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Quinton-Jackson-348">Quinton Jackson</a></td>
+                                                        <td><a href="/events/Pride-FC-Total-Elimination-2005-2902"><span itemprop="award">Pride FC - Total Elimination 2005</span></a><br /><span class="sub_line">Apr / 23 / 2005</span></td>
+                            <td>TKO (Soccer Kicks)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>4:47</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Hiromitsu-Kanehara-1441">Hiromitsu Kanehara</a></td>
+                                                        <td><a href="/events/Pride-29-Fists-of-Fire-2819"><span itemprop="award">Pride 29 - Fists of Fire</span></a><br /><span class="sub_line">Feb / 20 / 2005</span></td>
+                            <td>TKO (Stomp)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>1:40</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Yasuhito-Namekawa-1462">Yasuhito Namekawa</a></td>
+                                                        <td><a href="/events/Pride-Bushido-5-2607"><span itemprop="award">Pride - Bushido 5</span></a><br /><span class="sub_line">Oct / 14 / 2004</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>6:02</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Akihiro-Gono-1217">Akihiro Gono</a></td>
+                                                        <td><a href="/events/Pride-Bushido-2-2087"><span itemprop="award">Pride - Bushido 2</span></a><br /><span class="sub_line">Feb / 15 / 2004</span></td>
+                            <td>TKO (Soccer Kicks)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>9:04</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Akira-Shoji-10">Akira Shoji</a></td>
+                                                        <td><a href="/events/Pride-Bushido-1-1829"><span itemprop="award">Pride - Bushido 1</span></a><br /><span class="sub_line">Oct / 05 / 2003</span></td>
+                            <td>KO (Punches)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>3:47</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td><a href="/fighter/Renato-Sobral-274">Renato Sobral</a></td>
+                                                        <td><a href="/events/IFC-Global-Domination-1796">IFC - Global Domination</a><br /><span class="sub_line">Sep / 06 / 2003</span></td>
+                            <td>Submission (Guillotine Choke)<br /><span class="sub_line">N/A</span></td>
+                            <td>3</td>
+                            <td>3:07</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Erick-Wanderley-8332">Erick Wanderley</a></td>
+                                                        <td><a href="/events/IFC-Global-Domination-1796"><span itemprop="award">IFC - Global Domination</span></a><br /><span class="sub_line">Sep / 06 / 2003</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">N/A</span></td>
+                            <td>2</td>
+                            <td>2:54</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Evangelista-Santos-2605">Evangelista Santos</a></td>
+                                                        <td><a href="/events/Meca-9-Meca-World-Vale-Tudo-9-1750"><span itemprop="award">Meca 9 - Meca World Vale Tudo 9</span></a><br /><span class="sub_line">Aug / 01 / 2003</span></td>
+                            <td>TKO (Punches)<br /><span class="sub_line">Pedro Rizzo</span></td>
+                            <td>1</td>
+                            <td>9:22</td>
+                        </tr>
+                                                <tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Angelo-Antonio-de-Oliveira-56027">Angelo Antonio de Oliveira</a></td>
+                                                        <td><a href="/events/Meca-8-Meca-World-Vale-Tudo-8-1610"><span itemprop="award">Meca 8 - Meca World Vale Tudo 8</span></a><br /><span class="sub_line">May / 16 / 2003</span></td>
+                            <td>TKO (Soccer Kicks)<br /><span class="sub_line">Luiz Alves</span></td>
+                            <td>1</td>
+                            <td>0:55</td>
+                        </tr>
+                                                <tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td><a href="/fighter/Rafael-Freitas-5708">Rafael Freitas</a></td>
+                                                        <td><a href="/events/Meca-7-Meca-World-Vale-Tudo-7-1173"><span itemprop="award">Meca 7 - Meca World Vale Tudo 7</span></a><br /><span class="sub_line">Nov / 08 / 2002</span></td>
+                            <td>KO (Kick)<br /><span class="sub_line">N/A</span></td>
+                            <td>1</td>
+                            <td>4:00</td>
+                        </tr>
+                                            </table>
+                </div>
+            </div>
+        </section>
+                                        <section>
+	<div class="module black">
+    	<div class="module_header">
+			<h2 class="header_sprite video_panel">Related Videos<span class="read_more"><a href="/videos">view more</a></span></h2>
+        </div>
+		<div class="content video">
+            <div class="current_video homepage hd">
+            	<!-- SPRINGBOARD LIST WIDGET PLAYER --> 
+                <div id="sd_video_player">
+                    <div class="play"></div>
+                    <div class="image">
+                        <img src="http://www3.cdn.sherdog.com/image_crop/640/480/_images/videos/20141216102110_Untitled2.JPG" />
+                    </div>
+                </div> 
+                <!-- SPRINGBOARD LIST WIDGET PLAYER --> 
+                <!-- SPRINGBOARD VIDEO LIST WIDGET -->
+                <div id="sd_video_list" class="sd_video_list">
+                    <div class="container">
+                        <div class="placeholder">
+                            <div class="item_collection">
+                                                                <div class="item" data-code="&lt;center&gt;&lt;iframe width=&quot;516&quot; height=&quot;290&quot; src=&quot;//www.youtube.com/embed/_14ymGy6tFk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;" data-springboard="">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/200/125/_images/videos/20141216102110_Untitled2.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Free Full UFC...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:932403,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/200/125/_images/videos/20140517052511_bb.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Coach Speak:...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:773923,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/200/125/_images/videos/20130814081849_bb.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Shogun Talks...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:713033,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/200/125/_images/videos/20130430084302_aa.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">‘Shogun’...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:509073,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/200/125/_images/videos/20120619011002_we.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Shogun: A Win...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:348495,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/200/125/_images/videos/20110829105420_Untitled1.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">‘Shogun’...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:346251,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/200/125/_images/videos/20110824115128_Untitled2.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Video:...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:265199,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/200/125/_images/videos/20110319032103_Untitled1.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Countdown to...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:248149,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/200/125/_images/videos/20110206022814_wed.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Jones,...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:179511,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/200/125/_images/videos/20100725100323_small_video.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Shogun Plans...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:151383,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/200/125/_images/videos/20100509051555_small_video.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Rua's...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:151379,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/200/125/_images/videos/20100509051115_small_video_shogun.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">'Shogun'...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="&lt;object width=&quot;516&quot; height=&quot;290&quot; type=&quot;application/x-shockwave-flash&quot; id=&quot;ESPN_VIDEO&quot; data=&quot;http://espn.go.com/videohub/player/embed.swf&quot; allowScriptAccess=&quot;always&quot; allowNetworking=&quot;all&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://espn.go.com/videohub/player/embed.swf&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;allowNetworking&quot; value=&quot;all&quot;/&gt;&lt;param name=&quot;flashVars&quot; value=&quot;id=5171799&quot;/&gt;&lt;/object&gt;" data-springboard="">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/200/125/_images/videos/20100507025825_smallweighins.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">UFC 113...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:150761,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/200/125/_images/videos/20100506110439_small_dana.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">UFC 113...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="
+            $sb(
+                &quot;shd015&quot;,
+                {&quot;sbFeed&quot;:
+                {&quot;partnerId&quot;:113,
+                &quot;type&quot;:&quot;video&quot;,
+                &quot;contentId&quot;:149137,
+                &quot;cname&quot;:&quot;sherdog&quot;},
+                &quot;style&quot;:{
+                &quot;width&quot;:516,
+                &quot;height&quot;:290
+            }});" data-springboard="1">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/200/125/_images/videos/20100503011113_small_shogun.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">UFC 113...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="&lt;embed width=&quot;516&quot; height=&quot;290&quot; src=&quot;http://www.sherdog.com/sdvideos/misc_09/shogun_prefight_sept09.wmv&quot; loop=&quot;true&quot; autostart=&quot;true&quot; enablecontextmenu=&quot;true&quot; showstatusbar=&quot;true&quot; name=&quot;mediaplayer1&quot; pluginspage=&quot;http://www.microsoft.com/Windows/MediaPlayer/&quot; type=&quot;application/x-mplayer2&quot;&gt;" data-springboard="">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/200/125/_images/videos/20090906061142_small_shogun.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Shogun...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="&lt;embed width=&quot;516&quot; height=&quot;290&quot; src=&quot;http://www.sherdog.com/sdvideos/misc_09/shogun_postfight_apr09.wmv&quot; loop=&quot;true&quot; autostart=&quot;true&quot; enablecontextmenu=&quot;true&quot; showstatusbar=&quot;true&quot; name=&quot;mediaplayer1&quot; pluginspage=&quot;http://www.microsoft.com/Windows/MediaPlayer/&quot; type=&quot;application/x-mplayer2&quot;&gt;" data-springboard="">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/200/125/_images/videos/20090420012450_small_shogun.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">'Shogun'...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="&lt;embed width=&quot;516&quot; height=&quot;290&quot; src=&quot;http://www.sherdog.com/sdvideos/misc/shogun_sep08.wmv&quot; loop=&quot;true&quot; autostart=&quot;true&quot; enablecontextmenu=&quot;true&quot; showstatusbar=&quot;true&quot; name=&quot;mediaplayer1&quot; pluginspage=&quot;http://www.microsoft.com/Windows/MediaPlayer/&quot; type=&quot;application/x-mplayer2&quot;&gt;" data-springboard="">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/200/125/_images/videos/20080901123305_small_shogun.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">'Shogun'...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="&lt;embed width=&quot;516&quot; height=&quot;290&quot; src=&quot;http://www.sherdog.com/sdvideos/misc/shogun2_july08.wmv&quot; loop=&quot;true&quot; autostart=&quot;true&quot; enablecontextmenu=&quot;true&quot; showstatusbar=&quot;true&quot; name=&quot;mediaplayer1&quot; pluginspage=&quot;http://www.microsoft.com/Windows/MediaPlayer/&quot; type=&quot;application/x-mplayer2&quot;&gt;" data-springboard="">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/200/125/_images/videos/20080801011414_small_shogun.JPG" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">'Shogun'...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="item" data-code="&lt;embed width=&quot;516&quot; height=&quot;290&quot; src=&quot;http://www.sherdog.com/sdvideos/events/pride33/pride33_shogun_wrkout.wmv&quot; loop=&quot;true&quot; autostart=&quot;true&quot; enablecontextmenu=&quot;true&quot; showstatusbar=&quot;true&quot; name=&quot;mediaplayer1&quot; pluginspage=&quot;http://www.microsoft.com/Windows/MediaPlayer/&quot; type=&quot;application/x-mplayer2&quot;&gt;" data-springboard="">
+                                    <div class="item_wrapper">
+                                        <div class="item_image">
+                                            <img border="0" class="lazy" src="http://www4.cdn.sherdog.com/image_crop/130/73/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/200/125/_images/videos/1088_sm.jpg" alt=""/>
+                                        </div>
+                                        <div class="item_content">
+                                            <div class="item_info">
+                                                                                            </div>
+                                            <div class="title">Video: Chute...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="left">&nbsp;◄&nbsp;</div>
+                            <div class="right">&nbsp;►&nbsp;</div>
+                        </div>
+                    </div>
+                </div>
+                <!-- SPRINGBOARD VIDEO LIST WIDGET -->
+            </div>
+	    </div>
+    </div>
+</section>
+                <section>
+            <div class="module pictures">
+                <div class="module_header">
+                    <h2>Pictures
+    <span class="read_more black"><a href="/pictures/gallery/fighter/5707/">view more</a></span>
+                    </h2>
+                </div>
+                <div class="content">
+<!--[nggallery id=5707 type=fighter page=1]-->                </div>
+            </div>
+        </section>
+        
+
+        
+        <section>
+			<div class="module tabbed">
+    	<div class="module_header">
+			<h2>Mauricio Rua Related News</h2>
+        </div>
+				<div class="content">
+			<ul>
+						            <li >
+	                	<a href="/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114903"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/200/125/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161213075828_GettyImages629042864.JPG" width="200"/>
+	                	</a>
+	                
+	                    	<h3 class="title"><a href="/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114903">Sherdog’s Official Mixed Martial Arts Rankings</a></h3>
+                            <span class="blurb">
+                                <p>
+                                    <em>By: <b><a href='/authors/Sherdogcom-Staff-1223'>Sherdog.com Staff</a></b></em><br>Any MMA fan could have told you there was a vast difference in
+quality and top-10 relevance between the <a href=
+"http://www.sherdog.com/organizations/Ultimate-Fighting-Championship-2">
+Ultimate Fighting Championship</a>’s <a href=
+"http://www.sherdog.com/events/UFC-Fight-Night-102-Lewis-vs-Abdurakhimov-54999">
+UFC Fight Night 102</a> card on Dec. 9 in Albany, New York, and the
+promotion’s...	                        </p>	                        
+	                        <span class="tools">
+	                        									<span class="read_more"><a href="/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114903">Read More</a></span>
+															</span>
+	                    </span>
+	                    
+		            </li>
+		        		            <li >
+	                	<a href="/news/articles/Matches-to-Make-After-UFC-206-114891"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/200/125/img/default_300x300.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161210114544_GettyImages629015788.JPG" width="200"/>
+	                	</a>
+	                
+	                    	<h3 class="title"><a href="/news/articles/Matches-to-Make-After-UFC-206-114891">Matches to Make After UFC 206</a></h3>
+                            <span class="blurb">
+                                <p>
+                                    <em>By: <b><a href='/authors/Brian-Knapp-1318'>Brian Knapp</a></b></em><br><a href=
+"http://www.sherdog.com/fighter/Anthony-Pettis-26627">Anthony
+Pettis</a> wandered into oncoming traffic and has the tread marks
+to prove it.	                        </p>	                        
+	                        <span class="tools">
+	                        									<span class="read_more"><a href="/news/articles/Matches-to-Make-After-UFC-206-114891">Read More</a></span>
+															</span>
+	                    </span>
+	                    
+		            </li>
+		        		            <li >
+	                	<a href="/news/articles/Matches-to-Make-After-UFC-Fight-Night-Lewis-vs-Abdurakhimov-114837"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/200/125/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161209094242_GettyImages628852686.JPG" width="200"/>
+	                	</a>
+	                
+	                    	<h3 class="title"><a href="/news/articles/Matches-to-Make-After-UFC-Fight-Night-Lewis-vs-Abdurakhimov-114837">Matches to Make After UFC Fight Night ‘Lewis vs. Abdurakhimov’</a></h3>
+                            <span class="blurb">
+                                <p>
+                                    <em>By: <b><a href='/authors/Brian-Knapp-1318'>Brian Knapp</a></b></em><br><a href=
+"http://www.sherdog.com/fighter/Derrick-Lewis-59284">Derrick
+Lewis</a> got the job done.	                        </p>	                        
+	                        <span class="tools">
+	                        									<span class="read_more"><a href="/news/articles/Matches-to-Make-After-UFC-Fight-Night-Lewis-vs-Abdurakhimov-114837">Read More</a></span>
+															</span>
+	                    </span>
+	                    
+		            </li>
+		        		            <li >
+	                	<a href="/news/news/Derrick-Lewis-Rallies-to-Stop-Shamil-Abdurakhimov-in-UFC-Fight-Night-102-Headliner-114831"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/200/125/img/default_300x300.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/20161209082055_fgf.JPG" width="200"/>
+	                	</a>
+	                
+	                    	<h3 class="title"><a href="/news/news/Derrick-Lewis-Rallies-to-Stop-Shamil-Abdurakhimov-in-UFC-Fight-Night-102-Headliner-114831">Derrick Lewis Rallies to Stop Shamil Abdurakhimov in UFC Fight Night 102 Headliner</a></h3>
+                            <span class="blurb">
+                                <p>
+                                    <em>By: <b><a href='/authors/Brian-Knapp-1318'>Brian Knapp</a></b></em><br><a href=
+"http://www.sherdog.com/fighter/Derrick-Lewis-59284">Derrick
+Lewis</a> overcomes slow start to take out <a href=
+"http://www.sherdog.com/fighter/Shamil-Abdurakhimov-26808">Shamil
+Abdurakhimov</a> in the fourth round of their UFC Fight Night main
+event on Friday in Albany,...	                        </p>	                        
+	                        <span class="tools">
+	                        									<span class="read_more"><a href="/news/news/Derrick-Lewis-Rallies-to-Stop-Shamil-Abdurakhimov-in-UFC-Fight-Night-102-Headliner-114831">Read More</a></span>
+															</span>
+	                    </span>
+	                    
+		            </li>
+		        		            <li class='last'>
+	                	<a href="/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114533"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/200/125/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/200/125/_images/thumbnails/1480940461dj.jpeg" width="200"/>
+	                	</a>
+	                
+	                    	<h3 class="title"><a href="/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114533">Sherdog’s Official Mixed Martial Arts Rankings</a></h3>
+                            <span class="blurb">
+                                <p>
+                                    <em>By: <b><a href='/authors/Sherdogcom-Staff-1223'>Sherdog.com Staff</a></b></em><br>In the wake of <a href=
+"http://www.sherdog.com/events/UFC-The-Ultimate-Fighter-24-Finale-54997">
+“The Ultimate Fighter 24” Finale</a>, this edition of the
+Sherdog.com divisional rankings has some fighters chasing history
+and...	                        </p>	                        
+	                        <span class="tools">
+	                        									<span class="read_more"><a href="/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-114533">Read More</a></span>
+															</span>
+	                    </span>
+	                    
+		            </li>
+		        		        			</ul>
+		</div>
+		<div class="footer">
+								<span class="pagination">
+            			        				            			<a href="/fighter/news/Mauricio-Rua-5707" rel="next">View More</a>            		</span>
+					</div>
+	</div>
+</section>
+        <section>
+<div class="module">
+<div class="content">
+<div id="zergnet-widget-45760"></div>
+
+<script language="javascript" type="text/javascript">
+    (function() {
+        var zergnet = document.createElement('script');
+        zergnet.type = 'text/javascript'; zergnet.async = true;
+        zergnet.src = (document.location.protocol == "https:" ? "https:" : "http:") + '//www.zergnet.com/zerg.js?id=45760';
+
+        var znscr = document.getElementsByTagName('script')[0];
+        znscr.parentNode.insertBefore(zergnet, znscr);
+    })();
+</script>
+</div>
+</div>
+</section>
+        
+    </div>
+    <!-- RIGHT COLUMN -->
+    <!-- RIGHT COLUMN -->
+<div class="col_right">
+            <div class="ads"><div class="ad mediumrectangle"><div id="ad300" data-id="ad300" class="gpt-ad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad300'); });</script></div></div></div>
+    
+    
+    <!-- Fight Finder Templates -->
+	<div id='autocomplete_template' data-format='{firstname} { "nickname" }{lastname}' data-slaveinput='#sample' data-slaveformat='{id}' style='display:none'>
+			<table cellpadding='0' cellspacing='0'><tr><td width='37' height='37'><img data-src="{image}" width='32'/></td><td>{firstname} { "nickname" }{lastname}</td></tr></table>
+	</div>
+	
+	<div id='autocomplete_template_Fighter' data-format='{firstname} { "nickname" }{lastname}' data-slaveinput='#sample' data-slaveformat='{id}' style='display:none'>
+			<table cellpadding='0' cellspacing='0'><tr><td width='37' height='37'><img data-src="{image}" width='32'/></td><td>{firstname} { "nickname" }{lastname}</td></tr></table>
+	</div>
+	
+	<div id='autocomplete_template_Event' data-format='{name} - {title}' data-slaveinput='#sample' data-slaveformat='{id}' style='display:none'>
+			<table cellpadding='0' cellspacing='0'><tr><td width='37' height='37'><img data-src="{image}" width='32'/></td><td>{name} - {title}</td></tr></table>
+	</div>
+<!-- End of Fight Finder Templates -->
+
+<script language='javascript'>
+function autocomplete_select(data) {
+	if ((data.url != null) && (data.url != "")) {
+		document.location = data.url;
+	}
+}
+</script>
+
+<div class="fight_finder">
+	<div class="module">
+        <title><h2>Fight Finder</h2></title>
+        <div class="content">
+            <div class="sponsor">Sponsored by</div>
+                <form action='/stats/fightfinder' method='get'>
+                <input data-groupfield='source' name="SearchTxt" data-autocorrect='false' data-offset="-105px 0" type="text" placeholder="Search fighters / Events..."  class='search autocomplete' data-source='/search/fightfinder/' data-template='#autocomplete_template' data-onselect='autocomplete_select' />
+                <input value="Go" type="submit" class="go">
+                </form>
+                <div class="trending_fighters">
+                    <h3>Top trending fighters</h3>
+                    <a href="/fighter/Mickey-Gall-160145"><h4>Mickey Gall</h4></a> | <a href="/fighter/Conor-McGregor-29688"><h4>Conor McGregor</h4></a> | <a href="/fighter/Stipe-Miocic-39537"><h4>Stipe Miocic</h4></a> | <a href="/fighter/Alistair-Overeem-461"><h4>Alistair Overeem</h4></a> | <a href="/fighter/Phil-Brooks-184933"><h4>Phil Brooks</h4></a> | <a href="/fighter/Demian-Maia-14637"><h4>Demian Maia</h4></a>            </div>
+        </div>
+    </div>
+</div>
+    <div id="events_fights" class="module tabbed active_tab">
+    <div class="module_header">
+        <h2 class="header_sprite events_fights">Events/Fights</h2>
+    </div>
+    <div class="tab_menu">
+        <span>
+            <a href="/organizations/Ultimate-Fighting-Championship-2" id="ufc_tab">UFC</a>            <a href="/organizations/Bellator-1960" id="bellator_tab">BELLATOR</a>                            <a href="/organizations/World-Series-of-Fighting-5449" id="wsof_tab">WSOF</a>
+                        
+                        
+                                <a href="/organizations/Boxing-7791" id="boxing_tab">Boxing</a>
+                            
+                        
+            <a href="/events" id="more_tab">More &gt;</a>
+        </span>
+    </div>
+    
+    <div class="content" style="display:none;" id="ufc_tab">
+        <ul class="left_side">
+                        <li>
+                <a href="/events/UFC-207-Nunes-vs-Rousey-55005">
+                    <h4 class="title">UFC 207</h4>
+                    <h3 class="fighters">Nunes<strong> VS </strong>Rousey</h3>
+                    <span class="fighters_pics">
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/72/72/_images/fighter/1371115206315_20130213124515_amanda_nunes.JPG" alt="Amanda 'Lioness' Nunes" title="Amanda 'Lioness' Nunes" />
+                        <span class="versus">Versus</span>
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/72/72/_images/fighter/1392328616736_20131219091702_ronda_rousey.JPG" alt="Ronda 'Rowdy' Rousey" title="Ronda 'Rowdy' Rousey" />
+                    </span>
+                    <span class="date">December, 30, 2016</span>
+                </a>
+            </li>
+                        <li>
+                <a href="/events/UFC-Fight-Night-103-Rodriguez-vs-Penn-56239">
+                    <h4 class="title">UFC Fight Night 103</h4>
+                    <h3 class="fighters">Penn<strong> VS </strong>Rodriguez</h3>
+                    <span class="fighters_pics">
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/72/72/_images/fighter/1410448273556_20140911080402_1MG_4005.JPG" alt="B.J. 'The Prodigy' Penn" title="B.J. 'The Prodigy' Penn" />
+                        <span class="versus">Versus</span>
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter/1434246835IMG_1421.jpg" alt="Yair 'Pantera' Rodriguez" title="Yair 'Pantera' Rodriguez" />
+                    </span>
+                    <span class="date">January, 15, 2017</span>
+                </a>
+            </li>
+                </ul>
+        <ul class="right_side ">
+                                                        <li>
+                <a href="/events/UFC-207-Nunes-vs-Rousey-55005">
+                    <span class="date"><span class="month">Dec</span><span class="day">30</span><span class="year">2016</span></span>
+                    UFC 207 - Nunes vs. Rousey                </a>
+            </li>     
+                                    <li>
+                <a href="/events/UFC-Fight-Night-103-Rodriguez-vs-Penn-56239">
+                    <span class="date"><span class="month">Jan</span><span class="day">15</span><span class="year">2017</span></span>
+                    UFC Fight Night 103 - Rodriguez vs. Penn                </a>
+            </li>     
+                                    <li>
+                <a href="/events/UFC-on-Fox-23-Shevchenko-vs-Pena-56245">
+                    <span class="date"><span class="month">Jan</span><span class="day">28</span><span class="year">2017</span></span>
+                    UFC on Fox 23 - Shevchenko vs. Pena                </a>
+            </li>     
+                                    <li>
+                <a href="/events/UFC-Fight-Night-104-Korean-Zombie-vs-Bermudez-56247">
+                    <span class="date"><span class="month">Feb</span><span class="day">04</span><span class="year">2017</span></span>
+                    UFC Fight Night 104 - Korean Zombie vs. Bermudez                </a>
+            </li>     
+                                    <li class='last'>
+                <a href="/events/UFC-208-Holm-vs-De-Randamie-56249">
+                    <span class="date"><span class="month">Feb</span><span class="day">11</span><span class="year">2017</span></span>
+                    UFC 208 - Holm vs. De Randamie                </a>
+            </li>     
+                        </ul>
+</div><div class="content" style="display:none;" id="bellator_tab">
+        <ul class="left_side">
+                        <li>
+                <a href="/events/Bellator-170-Sonnen-vs-Ortiz-55803">
+                    <h4 class="title">Bellator 170</h4>
+                    <h3 class="fighters">Sonnen<strong> VS </strong>Ortiz</h3>
+                    <span class="fighters_pics">
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/72/72/_images/fighter/1398037386721_20131219125416_chael_sonnen.JPG" alt="Chael Sonnen" title="Chael Sonnen" />
+                        <span class="versus">Versus</span>
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/72/72/_images/fighter/1399010959995_20140501110440_1MG_3588.JPG" alt="Tito 'The Huntington Beach Bad Boy' Ortiz" title="Tito 'The Huntington Beach Bad Boy' Ortiz" />
+                    </span>
+                    <span class="date">January, 21, 2017</span>
+                </a>
+            </li>
+                        <li>
+                <a href="/events/Bellator-MMA-Fedor-vs-Mitrione-56373">
+                    <h4 class="title">Bellator MMA</h4>
+                    <h3 class="fighters">Emelianenko<strong> VS </strong>Mitrione</h3>
+                    <span class="fighters_pics">
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/72/72/_images/fighter/1419495850309_20141225122355_IMG_1684.JPG" alt="Fedor 'The Last Emperor' Emelianenko" title="Fedor 'The Last Emperor' Emelianenko" />
+                        <span class="versus">Versus</span>
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter/14668982111DX_1711.jpg" alt="Matt 'Meathead' Mitrione" title="Matt 'Meathead' Mitrione" />
+                    </span>
+                    <span class="date">February, 18, 2017</span>
+                </a>
+            </li>
+                </ul>
+        <ul class="right_side ">
+                                                        <li>
+                <a href="/events/Bellator-170-Sonnen-vs-Ortiz-55803">
+                    <span class="date"><span class="month">Jan</span><span class="day">21</span><span class="year">2017</span></span>
+                    Bellator 170 - Sonnen vs. Ortiz                </a>
+            </li>     
+                                    <li>
+                <a href="/events/Bellator-171-Rickels-vs-Derrow-56525">
+                    <span class="date"><span class="month">Jan</span><span class="day">27</span><span class="year">2017</span></span>
+                    Bellator 171 - Rickels vs. Derrow                </a>
+            </li>     
+                                    <li class='last'>
+                <a href="/events/Bellator-MMA-Fedor-vs-Mitrione-56373">
+                    <span class="date"><span class="month">Feb</span><span class="day">18</span><span class="year">2017</span></span>
+                    Bellator MMA - Fedor vs. Mitrione                </a>
+            </li>     
+                        </ul>
+</div><div class="content" style="display:none;" id="wsof_tab">
+        <ul class="left_side">
+                        <li>
+                <a href="/events/WSOF-34-Gaethje-vs-Firmino-54459">
+                    <h4 class="title">WSOF 34</h4>
+                    <h3 class="fighters">Gaethje<strong> VS </strong>Firmino</h3>
+                    <span class="fighters_pics">
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/72/72/_images/fighter/1399137902084_20130615050826_justin_gaethje.JPG" alt="Justin 'The Highlight' Gaethje" title="Justin 'The Highlight' Gaethje" />
+                        <span class="versus">Versus</span>
+                        <img class="lazy" src="http://www2.cdn.sherdog.com/image_crop/72/72/_images/fighter_small_default.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/72/72/_images/fighter/1403497872730_20140622093054_1DX_4129.JPG" alt="Luiz 'Buscape' Firmino" title="Luiz 'Buscape' Firmino" />
+                    </span>
+                    <span class="date">December, 31, 2016</span>
+                </a>
+            </li>
+                </ul>
+        <ul class="right_side ">
+                                                        <li class='last'>
+                <a href="/events/WSOF-34-Gaethje-vs-Firmino-54459">
+                    <span class="date"><span class="month">Dec</span><span class="day">31</span><span class="year">2016</span></span>
+                    WSOF 34 - Gaethje vs. Firmino                </a>
+            </li>     
+                        </ul>
+</div><div class="content" style="display:none;" id="boxing_tab">
+        <ul class="right_side  full">
+            </ul>
+</div>    <div class="footer">
+        <span class="read_more"><a id="more_organization" href="#">More</a></span>
+    </div>
+</div>
+
+    <!-- Insticator API Embed Code --><div id="insticator-container" style="margin-bottom: 6px"><div id="div-insticator-ad-1"></div><div id="insticator-embed"></div><div id="div-insticator-ad-2"></div><script data-cfasync="false" type="text/javascript">/*<![CDATA[*/Insticator.ad.loadAd("div-insticator-ad-1");Insticator.ad.loadAd("div-insticator-ad-2");Insticator.load("em",{id : "19136d96-6d72-45aa-a884-3ff317ae64e4"})/*]]>*/</script></div><!-- End Insticator API Embed Code -->
+    
+    
+    
+    <div class="module">
+	<div class="module_header">
+		<h2 class='header_sprite latest_articles'><span>Latest </span>Articles</h2>
+	</div>
+    <div class="content">
+        <ul class="module_list">
+        	            <li>
+            	                <a href="/news/articles/Beating-the-Odds-UFC-on-Fox-22-115183"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/125/75/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/125/75/_images/thumbnails/20161219090348_GettyImages630161638.JPG"></a>
+                <span class="blurb">
+                    <span class="title"><a href="/news/articles/Beating-the-Odds-UFC-on-Fox-22-115183">Beating the Odds: UFC on Fox 22</a></span>
+                </span>
+            </li>
+                        <li>
+            	                <a href="/news/articles/Opinion-Watching-Through-the-Rearview-115181"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/125/75/img/default_300x300.jpg" data-original="http://www2.cdn.sherdog.com/image_crop/125/75/_images/thumbnails/20161219085253_Untitled1.JPG"></a>
+                <span class="blurb">
+                    <span class="title"><a href="/news/articles/Opinion-Watching-Through-the-Rearview-115181">Opinion: Watching Through the Rearview</a></span>
+                </span>
+            </li>
+                        <li>
+            	                <a href="/news/articles/Matches-to-Make-After-UFC-on-Fox-22-115161"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/125/75/img/default_300x300.jpg" data-original="http://www3.cdn.sherdog.com/image_crop/125/75/_images/thumbnails/20161217091050_GettyImages630163872.JPG"></a>
+                <span class="blurb">
+                    <span class="title"><a href="/news/articles/Matches-to-Make-After-UFC-on-Fox-22-115161">Matches to Make After UFC on Fox 22</a></span>
+                </span>
+            </li>
+                        <li>
+            	                <a href="/news/articles/By-the-Numbers-UFC-on-Fox-22-115149"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/125/75/img/default_300x300.jpg" data-original="http://www4.cdn.sherdog.com/image_crop/125/75/_images/thumbnails/20161217075256_GettyImages630163702.JPG"></a>
+                <span class="blurb">
+                    <span class="title"><a href="/news/articles/By-the-Numbers-UFC-on-Fox-22-115149">By the Numbers: UFC on Fox 22</a></span>
+                </span>
+            </li>
+                        <li>
+            	                <a href="/news/articles/The-Walkmen-UFC-on-Fox-22-115127"><img class="lazy" src="http://www4.cdn.sherdog.com/image_crop/125/75/img/default_300x300.jpg" data-original="http://www1.cdn.sherdog.com/image_crop/125/75/_images/thumbnails/20161217014211_1DX_2654.JPG"></a>
+                <span class="blurb">
+                    <span class="title"><a href="/news/articles/The-Walkmen-UFC-on-Fox-22-115127">The Walkmen: UFC on Fox 22</a></span>
+                </span>
+            </li>
+                    </ul>
+    </div>
+    <div class="footer">
+    	    	<span class="read_more"><a href="/news/articles/list">View more</a></span>
+    	    </div>
+</div>
+    <div class="module">
+                <div class="module_header">
+                    <h2 class="header_sprite sherdog_blogs">
+                        <span>Sherdog </span>Blogs
+                    </h2>
+                </div>
+                <div class="content">
+                    <ul class="simple_list"><li><a href="/blog/Joe-Smith-Jr-Knocks-Bernard-Hopkins-Out-of-the-Ring-Spoils-Legends-Last-Fight-115175">Joe Smith Jr. Knocks Bernard Hopkins Out of the Ring, Spoils Legend’s Last Fight</a></li><li><a href="/blog/Picking-Grinning-UFC-on-Fox-22-VanZant-vs-Waterson-115091">Picking & Grinning: UFC on Fox 22 ‘VanZant vs. Waterson’</a></li><li><a href="/blog/HBO-Boxing-Weighin-Results-Bernard-Hopkins-Joe-Smith-Jr-Green-Lit-for-Final-1-115089">HBO Boxing Weigh-in Results: Bernard Hopkins, Joe Smith Jr. Green Lit for ‘Final 1’</a></li><li><a href="/blog/Artem-Vakhitov-to-Defend-Light-Heavyweight-Title-Against-Saulo-Cavalari-at-Glory-38-115041">Artem Vakhitov to Defend Light Heavyweight Title Against Saulo Cavalari at Glory 38</a></li><li class='last'><a href="/blog/Super-Lightweight-Champion-Terence-Crawford-Jailed-in-Omaha-115039">Super Lightweight Champion Terence Crawford Jailed in Omaha</a></li></ul>
+                </div>
+                <div class="footer">
+                    <span class="read_more">
+                        <a href="/blog/">View more</a>
+                    </span>
+                </div>
+            </div>
+    <div id="fb-root"></div>
+        <div class="fb-widget module">
+            <div class="fb-like-box" 
+                data-href="https://www.facebook.com/OfficialSherdog" 
+                data-width="295" data-show-faces="true" data-stream="false" 
+                data-colorscheme="dark" data-border-color="#000000" 
+                data-header="false"></div>
+        </div>
+    
+    
+    
+    <div id="social_widget" style="width: 300px; height: 0px; position: relative; overflow: hidden;"></div>
+
+        <div class="ads"><div class="ad mediumrectangle"><div id="ad300st" data-id="ad300st" class="gpt-ad-lazy sticky-ad"></div></div></div>
+    </div>
+<!-- END OF RIGHT COLUMN -->
+
+<!-- clear left and right columns in the content -->
+<br style='clear:both'>    <!-- END OF RIGHT COLUMN -->
+</div>        <footer>
+	<div id="footer">
+		<img src="http://www1.cdn.sherdog.com/2337/img/w/sherdog_dog.gif" alt="Dog" class="the_dog">
+		<div class="footer-about">
+    		Sherdog.com is a property of <a href="http://www.craveonline.com/">CraveOnline Media</a>, LLC,<br />
+    		an <a href="http://www.evolvemediallc.com/">Evolve Media</a>, LLC company. &copy;2016 All Rights Reserved.<br />
+    		<a href="/download-mobile-app">Mobile App</a> | <a href="http://www.craveonline.com/privacy.php?site=www.sherdog.com" rel="nofollow">Privacy Policy</a> | <a href="http://www.craveonline.com/termsofuse.php?site=www.sherdog.com" rel="nofollow">Terms of Use</a> | <a href="/syndication.php">RSS</a> | <a href="/advertising" rel="nofollow">Advertise</a> | <a href="/contact" rel="nofollow">Contact</a> | <a href="http://www.craveonline.com/cookies" rel="nofollow"><img src="http://www4.cdn.sherdog.com/2337/img/adchoices.png" style="margin: 0 3px -4px 0" />AdChoices</a>
+    		<br /><br />
+		</div>
+	    <div style="position: absolute; left: -999em">
+	        monitoring_string = "0ca85270192359a0306703d8430e1ace"
+	        monitoring_string = "98990d7e939e4a8d26c6e6b539094b9c"
+	    </div>
+	</div>
+</footer>    </div>
+
+    <script type="text/javascript">
+        // ComScore tag
+        document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+        $(function(){
+            COMSCORE.beacon({	c1:2, c2:6036161, c3:"", c4:"", c5:"", c6:"", c15:"" });
+        });
+
+        // Twitter code
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+    <noscript>
+        <img src='http://b.scorecardresearch.com/p?c1=2&c2=6036161&c3=&c4=&c5=&c6=&c15=&cj=1' />
+    </noscript>
+
+    <script src="http://cdn1.craveonline.com/libraries/pebblebed/js/cookie_notice.min.js"></script>
+
+    
+    <script type="text/javascript">
+var _sf_async_config={uid:8555, domain:'sherdog.com', useCanonical:true};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>    <!-- QUANTCAST/CONTENTIQ CONNECTION -->
+<script type="text/javascript" src="http://dashboard.evolveplatform.net/set_quantcast_tag.js?scrolldepth=true&ord=6640627291054"></script>
+<!-- END QUANTCAST/CONTENTIQ CONNECTION -->
+    </body>
+</html>
